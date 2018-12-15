@@ -78,4 +78,6 @@ theme: phantom
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://MaxWeiChen@github.com/MaxWeiChen/PINIX_Web.git
+  branch: master
