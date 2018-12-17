@@ -126,42 +126,6 @@
 				}
 			}
 
-			&.style1, &.style9 {
-				> .image:before {
-					background-color: _palette(accent1);
-				}
-			}
-
-			&.style2, &.style7 {
-				> .image:before {
-					background-color: _palette(accent2);
-				}
-			}
-
-			&.style3, &.style8 {
-				> .image:before {
-					background-color: _palette(accent3);
-				}
-			}
-
-			&.style4, &.style12 {
-				> .image:before {
-					background-color: _palette(accent4);
-				}
-			}
-
-			&.style5, &.style10 {
-				> .image:before {
-					background-color: _palette(accent5);
-				}
-			}
-
-			&.style6, &.style11 {
-				> .image:before {
-					background-color: _palette(accent6);
-				}
-			}
-
 			body:not(.is-touch) & {
 				&:hover {
 					> .image {
