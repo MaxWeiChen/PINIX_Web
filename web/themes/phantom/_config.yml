@@ -3,8 +3,8 @@ menu:
   Games: /
   # Games: /categories/games/
   # About: /about/
-  PressKit_PINIX: /PressKit-PINIX/
-  PressKit_WannaSurvive: /PressKit-WS/
+  PressKit_PINIX: /PressKit-PINIX/en/
+  PressKit_WannaSurvive: /PressKit-WS/en/
 
 # favicon
 favicon: favicon.ico

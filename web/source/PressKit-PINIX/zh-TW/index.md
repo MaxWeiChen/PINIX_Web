@@ -4,6 +4,7 @@ logos:
 - textures/PINIX_ICON.png
 logoPackage: textures/PINIX_ICON.png
 ---
+<a href="../en/" class="button small" target=_self>English</a>
 # 簡介
 + **開發者**  
 貝努遊戲  
