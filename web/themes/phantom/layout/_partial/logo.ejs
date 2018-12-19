@@ -1,8 +1,10 @@
 <p>
 <table>
 	<td>
-		<h2 class="logo"><%- item.logoTitle || "Logo" %></h2>
+		<h1 class="logo"><%- item.logoTitle || "Logo" %></h1>
 		<% if (item.logoPackage){ %>
+    </td>
+    <td>
 		<a href="<%- config.root %><%- item.logoPackage %>" class="button small" target=_self>
 			Download All
 		</a>

@@ -1,4 +1,4 @@
-title: 'Wanna Survive [Press Kit]'
+title: Press Kit
 date: 2018-12-18 22:17:48
 cover_detail: /textures/WannaSurviveTopBanner.jpg
 videoTitle: 影片
@@ -16,8 +16,11 @@ logos:
 logoPackage: textures/PINIX_ICON.png
 ---
 <table>
-	<td><h2>基本資料<h2></td>
+	<td><h1>基本資料<h1></td>
 </table>
++ **遊戲名稱**  
+Wanna Survive
+
 + **開發者**  
 貝努遊戲 PINIX  
 位於 台北, 台灣   
@@ -27,15 +30,17 @@ logoPackage: textures/PINIX_ICON.png
 
 + **發行平台**  
 預定 Steam(PC / Mac)  <!--要更新連結-->
+預定 IOS
+預定 Android
 
 + **網站**  
-Link: ** {% post_link WannaSurvive %} **
+** {% post_link WannaSurvive %} **
 
 + **售價**  
-預定 150 台幣
+預定 150 台幣(Steam)
 ---
 + **概述**  
-《Wanna Survive》是一款末日活屍題材戰棋遊戲，  
+《Wanna Survive》是一款像素風格的末日活屍題材戰棋遊戲，  
 描述著一群有各自生存目的的人們，如何於活屍世界中求生的故事。  
 遊戲性上簡化傳統戰棋過度複雜操作及冗長的戰鬥流程，  
 加快遊戲節奏並使玩家專注於角色間技能互補和走位戰略思考。
@@ -49,13 +54,17 @@ Link: ** {% post_link WannaSurvive %} **
 	+ 強調角色間互助和走位的戰略思考
 	+ 充滿挑戰難度的遊戲關卡設計
 	+ 代表生存的遊戲規則和代表生活的角色情感，這兩種遊戲目的間衝突的樂趣
+	+ 像素美術風格
 
 ---
 <!--獎項 和 認可-->
 <!--相關報導-->
 + **關於 貝努遊戲 PINIX**  
-是獨立開發者陳亦威一人團隊，我很明白一個人創作的能力有限，但這也是最能完整表現出個人特色的做法。希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
-想知道更多關於 貝努遊戲 的事，或需要其他媒體素材，請[點這](http://www.pinixgames.com/PressKit/)。
+是獨立開發者陳亦威一人團隊，我很明白一個人創作的能力有限，但這也是最能完整表現出個人特色的做法。  
+希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
+
+	如果想知道更多關於 貝努遊戲 的事，或需要其他媒體素材，請[點這](http://www.pinixgames.com/PressKit/)。  
+
 ---
 + **Wanna Survive 製作者**
 陳亦威
