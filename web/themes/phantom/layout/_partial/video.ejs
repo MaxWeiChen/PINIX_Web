@@ -1,0 +1,16 @@
+<p>
+<table>
+	<td width=10% align=left>
+		<h2 class="video"><%- item.videoTitle || "Videos" %></h2>
+	</td>
+</table>
+
+<div class="videos-container">
+    <% if (item.videos.length){ %>
+        <% item.videos.forEach(function(video){ %>
+            <div class="video-container">
+                <iframe src=<%- video %> frameborder="0" allowfullscreen></iframe></div>
+            </div>
+        <% }); %>
+    <% } %>
+</div>

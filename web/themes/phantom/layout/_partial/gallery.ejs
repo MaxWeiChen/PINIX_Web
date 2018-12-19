@@ -1,3 +1,14 @@
+<p>
+<table>
+	<td>
+		<h2 class="photo"><%- item.photoTitle || "Images" %></h2>
+		<% if (item.photoPackage){ %>
+		<a href="<%- config.root %><%- item.photoPackage %>" class="button small" target=_self>
+			Download All
+		</a>
+		<% } %>
+	</td>
+</table>
 
 <div class="gallery-container">
     <% if (item.photos.length){ %>
