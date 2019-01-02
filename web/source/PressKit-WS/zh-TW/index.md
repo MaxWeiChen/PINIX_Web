@@ -1,20 +1,29 @@
-title: Press Kit
-date: 2018-12-18 22:17:48
-cover_detail: /textures/WannaSurviveTopBanner.jpg
-videoTitle: 影片
-videos: 
-- //www.youtube.com/embed/rYxce35l1BI
-
-photoTitle: 圖片
-photos: 
-- textures/PINIX_ICON.png
-photoPackage: textures/PINIX_ICON.png
-
-logoTitle: Logo
-logos:
-- textures/PINIX_ICON.png
-logoPackage: textures/PINIX_ICON.png
 ---
+title: Press Kit _ Wanna Survive
+videoTitle: 影片
+photoTitle: 圖片
+logoTitle: Logo
+
+cover_detail: /Sources/WannaSurviveBanner.jpg
+
+videos: 
+- //www.youtube.com/embed/EfUvIPqaqT8
+
+photos: 
+- PressKit-WS/WSImages/001.png
+- PressKit-WS/WSImages/002.png
+- PressKit-WS/WSImages/003.png
+- PressKit-WS/WSImages/004.png
+- PressKit-WS/WSImages/005.png
+photoPackage: PressKit-WS/WSImages.zip
+
+logos: 
+- PressKit-WS/WSLogos/001.png
+logoPackage: PressKit-WS/WSLogos.zip
+---
+<!--統一管理連結-->
+[PINIXPressKitLink]: /PressKit-PINIX/zh-TW/
+<!--統一管理連結-->
 <a href="../en/" class="button small" target=_self>English</a>
 <table><td><h1>基本資料<h1></td></table>
 + **遊戲名稱**  
@@ -62,7 +71,7 @@ Wanna Survive
 是獨立開發者陳亦威一人團隊，我很明白一個人創作的能力有限，但這也是最能完整表現出個人特色的做法。  
 希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
 
-	如果想知道更多關於 貝努遊戲 的事，或需要其他媒體素材，請[點這](http://www.pinixgames.com/PressKit/)。  
+	如果想知道更多關於 貝努遊戲 的事，或需要其他媒體素材，請[點這][PINIXPressKitLink]。  
 
 ---
 + **Wanna Survive 製作者**

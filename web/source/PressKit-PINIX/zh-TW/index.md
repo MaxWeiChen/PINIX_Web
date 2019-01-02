@@ -1,9 +1,21 @@
-title: Press Kit
-date: 2018-12-18 22:17:43
-logos: 
-- textures/PINIX_ICON.png
-logoPackage: textures/PINIX_ICON.png
 ---
+title: Press Kit
+photoTitle: 圖片
+logoTitle: Logos
+
+photos: 
+- PressKit-PINIX/PINIXImages/001.jpg
+- PressKit-PINIX/PINIXImages/002.jpg
+photoPackage: PressKit-PINIX/PINIXImages.zip
+
+logos: 
+- PressKit-PINIX/PINIXLogos/001.png
+- PressKit-PINIX/PINIXLogos/002.png
+logoPackage: PressKit-PINIX/PINIXLogos.zip
+---
+<!--連結管理-->
+[PINIXWebLink]: http://www.pinixgames.com
+<!--連結管理-->
 <a href="../en/" class="button small" target=_self>English</a>
 # 簡介
 + **開發者**  
@@ -15,7 +27,7 @@ PINIX games studio
 2018年5月
 
 + **網站**  
-[pinixgames.com](http://www.pinixgames.com)
+[pinixgames.com][PINIXWebLink]
 
 + **媒體／商業聯繫**  
 maxwei@pinixgames.com
@@ -40,3 +52,9 @@ facebook: ** www.facebook.com/pinixgames **
 > 貝努遊戲 PINIX 的第一個作品，
 > 一款像素風格的末日活屍題材戰棋遊戲，
 > 目前仍在努力開發中，預計2019可以推出
+
+---
+
+# 成員
+陳亦威 Max Chen
+maxwei@pinixgames.com

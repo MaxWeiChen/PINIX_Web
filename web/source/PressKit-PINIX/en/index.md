@@ -1,11 +1,22 @@
-title: Press Kit
-logoTitle: Logos
-logos: 
-- textures/PINIX_ICON.png
-logoPackage: textures/PINIX_ICON.png
 ---
-<a href="../zh-TW/" class="button small" target=_self>繁體中文</a>
+title: Press Kit
+photoTitle: Images
+logoTitle: Logos
 
+photos: 
+- PressKit-PINIX/PINIXImages/001.jpg
+- PressKit-PINIX/PINIXImages/002.jpg
+photoPackage: PressKit-PINIX/PINIXImages.zip
+
+logos: 
+- PressKit-PINIX/PINIXLogos/001.png
+- PressKit-PINIX/PINIXLogos/002.png
+logoPackage: PressKit-PINIX/PINIXLogos.zip
+---
+<!--連結管理-->
+[PINIXWebLink]: http://www.pinixgames.com
+<!--連結管理-->
+<a href="../zh-TW/" class="button small" target=_self>繁體中文</a>
 # Factsheet
 + **Developer**  
 PINIX games studio  
@@ -15,7 +26,7 @@ Based in Taipei, Taiwan
 May, 2018
 
 + **Website**  
-[pinixgames.com](http://www.pinixgames.com)
+[pinixgames.com][PINIXWebLink]
 
 + **Press / Business contact**  
 maxwei@pinixgames.com
@@ -30,13 +41,17 @@ facebook: ** www.facebook.com/pinixgames **
 ---
 
 # Description
-貝努遊戲-PINIX 是由獨立開發者陳亦威一人團隊，我很明白一個人創作的能力有限，但這也是最能完整表現出個人特色的做法。  
-希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣
+As a single developer, Max Chen believes that the limitations of solo development can be utilized to bring out the strengths and personal touch of a game. He wishes to create enjoyable experiences that he can be proud of.
 
 ---
 
 # Projects  
 + ## {% post_link WannaSurvive %}
-> 貝努遊戲 PINIX 的第一個作品，
-> 一款像素風格的末日活屍題材戰棋遊戲，
-> 目前仍在努力開發中，預計2019可以推出
+> PINIX Games' first title is an 8-bit zombie apocalypse turn-based strategy.
+> It is currently under development, and planned for release in 2019.
+
+---
+
+# Team
+Max Chen
+maxwei@pinixgames.com
