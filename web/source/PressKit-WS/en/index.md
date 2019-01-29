@@ -16,6 +16,10 @@ photos:
 - PressKit-WS/WSImages/004.png
 - PressKit-WS/WSImages/005.png
 - PressKit-WS/WSImages/006.png
+- PressKit-WS/WSImages/007.png
+- PressKit-WS/WSImages/008.png
+- PressKit-WS/WSImages/009.png
+- PressKit-WS/WSImages/010.png
 photoPackage: PressKit-WS/WSImages.zip
 
 logos: 
@@ -39,8 +43,6 @@ summer, 2019
 
 + **Platforms**  
 Steam(PC / Mac)  <!--要更新連結-->
-IOS
-Android
 
 + **Website**  
 ** {% post_link WannaSurvive %} **

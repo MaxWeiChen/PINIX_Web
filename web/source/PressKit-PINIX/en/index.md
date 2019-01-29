@@ -6,6 +6,10 @@ logoTitle: Logos
 photos: 
 - PressKit-PINIX/PINIXImages/001.jpg
 - PressKit-PINIX/PINIXImages/002.jpg
+- PressKit-PINIX/PINIXImages/003.jpg
+- PressKit-PINIX/PINIXImages/004.jpg
+- PressKit-PINIX/PINIXImages/005.jpg
+- PressKit-PINIX/PINIXImages/006.jpg
 photoPackage: PressKit-PINIX/PINIXImages.zip
 
 logos: 

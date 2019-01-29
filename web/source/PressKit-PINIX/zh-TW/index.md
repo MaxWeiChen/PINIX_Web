@@ -6,6 +6,10 @@ logoTitle: Logos
 photos: 
 - PressKit-PINIX/PINIXImages/001.jpg
 - PressKit-PINIX/PINIXImages/002.jpg
+- PressKit-PINIX/PINIXImages/003.jpg
+- PressKit-PINIX/PINIXImages/004.jpg
+- PressKit-PINIX/PINIXImages/005.jpg
+- PressKit-PINIX/PINIXImages/006.jpg
 photoPackage: PressKit-PINIX/PINIXImages.zip
 
 logos: 
@@ -42,8 +46,7 @@ facebook: ** www.facebook.com/pinixgames **
 ---
 
 # 概述
-貝努遊戲-PINIX 是由獨立開發者陳亦威一人團隊，我很明白一個人創作的能力有限，但這也是最能完整表現出個人特色的做法。  
-希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣
+貝努遊戲-PINIX，成立於2018年5年，喜歡遊戲，所以做遊戲，只希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
 
 ---
 

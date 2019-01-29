@@ -15,6 +15,11 @@ photos:
 - PressKit-WS/WSImages/003.png
 - PressKit-WS/WSImages/004.png
 - PressKit-WS/WSImages/005.png
+- PressKit-WS/WSImages/006.png
+- PressKit-WS/WSImages/007.png
+- PressKit-WS/WSImages/008.png
+- PressKit-WS/WSImages/009.png
+- PressKit-WS/WSImages/010.png
 photoPackage: PressKit-WS/WSImages.zip
 
 logos: 
@@ -37,15 +42,14 @@ Wanna Survive
 預定 2019 夏
 
 + **發行平台**  
-預定 Steam(PC / Mac)  <!--要更新連結-->
-預定 IOS
-預定 Android
+預定 Steam(PC / Mac) 2019<!--要更新連結-->
 
 + **網站**  
 ** {% post_link WannaSurvive %} **
 
 + **售價**  
-預定 150 台幣(Steam)
+未定
+
 ---
 + **概述**  
 《Wanna Survive》是一款像素風格的末日活屍題材戰棋遊戲，  
@@ -54,7 +58,7 @@ Wanna Survive
 加快遊戲節奏並使玩家專注於角色間技能互補和走位戰略思考。
 
 + **源起**  
-《Wanna Survive》是由陳亦威一人由2018年月開始獨立開發，由於只有一人開發，所以遊戲玩法和題材都來自於作者個人喜好，覺得對現今玩家來說戰棋遊戲最大的問題就是過慢的節奏感，希望能將會讓人思考並突破困難的戰棋遊戲體驗重新帶給玩家
+《Wanna Survive》是由陳亦威由2018年月開始獨立開發，由於只有一人開發，所以遊戲玩法和題材都來自於作者個人喜好，覺得對現今玩家來說戰棋遊戲最大的問題就是過慢的節奏感，希望能將會讓人思考並突破困難的戰棋遊戲體驗重新帶給玩家
 
 + **特點**
 	+ 簡化和加快節奏的戰棋操作
@@ -66,12 +70,15 @@ Wanna Survive
 
 ---
 <!--獎項 和 認可-->
-<!--相關報導-->
-+ **關於 貝努遊戲 PINIX**  
-是獨立開發者陳亦威一人團隊，我很明白一個人創作的能力有限，但這也是最能完整表現出個人特色的做法。  
-希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
++ **相關報導**
+	+ 一人打造末日活屍新作《Wanna Survive》 希望讓玩家感受戰棋遊戲樂趣, [**巴哈姆特**](https://gnn.gamer.com.tw/2/174702.html)
+	+ 一人研發像素風戰棋新作《Wanna Survive》在食物與活屍危機中謀求生路, [**遊戲基地**](https://www.gamebase.com.tw/news/topic/99145932/)
 
-	如果想知道更多關於 貝努遊戲 的事，或需要其他媒體素材，請[點這][PINIXPressKitLink]。  
+
++ **關於 貝努遊戲 PINIX**  
+成立於2018年5年，喜歡遊戲，所以做遊戲，只希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
+
+	如果想知道更多關於 貝努遊戲 的事，或需要其他媒體素材，請[**點這**][PINIXPressKitLink]。  
 
 ---
 + **Wanna Survive 製作者**
