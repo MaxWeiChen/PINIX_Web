@@ -7,7 +7,7 @@ logoTitle: Logos
 cover_detail: /Sources/WannaSurviveBanner.jpg
 
 videos: 
-- //www.youtube.com/embed/EfUvIPqaqT8
+- //www.youtube.com/embed/457rNYpXAQc
 
 photos: 
 - PressKit-WS/WSImages/001.png
@@ -64,6 +64,7 @@ The game features a highly streamlined combat system that removes tedious contro
 	+ Engaging mix of survival combat and character stories
 	+ Enemies with mob-like movement for a true zombie experience
 	+ Delicious pixel art
+	+ Death is permanent. Party members cannot be revived after they die.
 
 ---
 <!--Awards & Recognition-->

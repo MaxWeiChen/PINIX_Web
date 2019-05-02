@@ -16,7 +16,7 @@ The game features a highly streamlined combat system that removes tedious contro
 加快遊戲節奏並使玩家專注於角色間技能互補和走位戰略思考。
 
 ---
-{% youtube EfUvIPqaqT8 %}
+{% youtube 457rNYpXAQc %}
 
 ---
 <!--遊戲PressKit連結-->

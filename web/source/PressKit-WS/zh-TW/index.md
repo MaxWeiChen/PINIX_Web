@@ -7,7 +7,7 @@ logoTitle: Logo
 cover_detail: /Sources/WannaSurviveBanner.jpg
 
 videos: 
-- //www.youtube.com/embed/EfUvIPqaqT8
+- //www.youtube.com/embed/457rNYpXAQc
 
 photos: 
 - PressKit-WS/WSImages/001.png
@@ -67,6 +67,7 @@ Wanna Survive
 	+ 充滿挑戰難度的遊戲關卡設計
 	+ 代表生存的遊戲規則和代表生活的角色情感，這兩種遊戲目的間衝突的樂趣
 	+ 像素美術風格
+	+ 角色如果死亡，將不會復活
 
 ---
 <!--獎項 和 認可-->
