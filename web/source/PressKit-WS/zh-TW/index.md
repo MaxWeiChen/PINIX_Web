@@ -4,7 +4,7 @@ videoTitle: 影片
 photoTitle: 圖片
 logoTitle: Logo
 
-cover_detail: /Sources/WannaSurviveBanner.jpg
+cover_detail: /Sources/WannaSurviveBanner.png
 
 videos: 
 - //www.youtube.com/embed/457rNYpXAQc
@@ -20,10 +20,12 @@ photos:
 - PressKit-WS/WSImages/008.png
 - PressKit-WS/WSImages/009.png
 - PressKit-WS/WSImages/010.png
+- PressKit-WS/WSImages/011.png
+- PressKit-WS/WSImages/012.png
 photoPackage: PressKit-WS/WSImages.zip
 
 logos: 
-- PressKit-WS/WSLogos/001.png
+- PressKit-WS/WSLogos/WannaSurviveLogo.png
 logoPackage: PressKit-WS/WSLogos.zip
 ---
 <!--統一管理連結-->
@@ -52,22 +54,22 @@ Wanna Survive
 
 ---
 + **概述**  
-《Wanna Survive》是一款像素風格的末日活屍題材戰棋遊戲，  
-描述著一群有各自生存目的的人們，如何於活屍世界中求生的故事。  
-遊戲性上簡化傳統戰棋過度複雜操作及冗長的戰鬥流程，  
-加快遊戲節奏並使玩家專注於角色間技能互補和走位戰略思考。
+《Wanna Survive》是一款末日活屍風格的回合制戰棋遊戲
+極度優化傳統戰棋冗長的戰鬥流程，大量活屍同時進攻，等待敵方回合只需「數秒」之間！
+低數值策略設計，強調走位、佈局、角色互補，「解局」般的戰略思考！
+生存抉擇機制，食物分配、戰略錯誤將使角色「永久死亡」，考驗你是否能在活屍橫行的末日中找到最後的避難所。
 
 + **源起**  
 《Wanna Survive》是由陳亦威由2018年月開始獨立開發，由於只有一人開發，所以遊戲玩法和題材都來自於作者個人喜好，覺得對現今玩家來說戰棋遊戲最大的問題就是過慢的節奏感，希望能將會讓人思考並突破困難的戰棋遊戲體驗重新帶給玩家
 
 + **特點**
-	+ 簡化和加快節奏的戰棋操作
-	+ 敵方能同時移動並給予玩家大量殭屍逼近壓迫感的戰鬥流程
-	+ 強調角色間互助和走位的戰略思考
-	+ 充滿挑戰難度的遊戲關卡設計
-	+ 代表生存的遊戲規則和代表生活的角色情感，這兩種遊戲目的間衝突的樂趣
-	+ 像素美術風格
-	+ 角色如果死亡，將不會復活
+	- 簡化傳統戰棋過度繁瑣的操作，優化遊戲節奏
+	- 敵方角色能同時進攻，等待敵方回合只需數秒之間，給予玩家大量活屍逼近壓迫感的戰鬥流程
+	- 低數值策略設計，強調走位、佈局、角色互補，如同解局的戰略思考
+	- 永久死亡機制，角色如果死亡，將不會復活
+	- 食物分配抉擇，將努力找到有限的食物分配給成員
+	- 精心設計充滿挑戰難度的關卡設計
+	- 像素美術風格
 
 ---
 <!--獎項 和 認可-->
@@ -89,5 +91,3 @@ Wanna Survive
 email: ** maxwei@pinixgames.com **
 twitter: ** www.twitter.com/pinixgames **  
 facebook: ** www.facebook.com/pinixgames **
-
-	

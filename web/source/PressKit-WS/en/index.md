@@ -4,7 +4,7 @@ videoTitle: Videos
 photoTitle: Images
 logoTitle: Logos
 
-cover_detail: /Sources/WannaSurviveBanner.jpg
+cover_detail: /Sources/WannaSurviveBanner.png
 
 videos: 
 - //www.youtube.com/embed/457rNYpXAQc
@@ -20,10 +20,12 @@ photos:
 - PressKit-WS/WSImages/008.png
 - PressKit-WS/WSImages/009.png
 - PressKit-WS/WSImages/010.png
+- PressKit-WS/WSImages/011.png
+- PressKit-WS/WSImages/012.png
 photoPackage: PressKit-WS/WSImages.zip
 
 logos: 
-- PressKit-WS/WSLogos/001.png
+- PressKit-WS/WSLogos/WannaSurviveLogo.png
 logoPackage: PressKit-WS/WSLogos.zip
 ---
 <!--統一管理連結-->
@@ -51,20 +53,21 @@ Steam(PC / Mac)  <!--要更新連結-->
   
 ---
 + **Description**  
-**《Wanna Survive》**is an 8-bit zombie apocalypse turn-based strategy. It follows a diverse cast of characters as they struggle to survive and reach their personal goals.
-The game features a highly streamlined combat system that removes tedious controls often associated with the genre. This allows players to focus on unit placement and synergies through fast-paced combat.
+**《Wanna Survive》**is a zombie apocalypse turn-based tactics game. It features a highly streamlined combat system that removes the tedious elements of turn-based combat for engaging fights against large groups of mob-like enemies that focuses on unit placement and synergies.
+The game features a diverse cast of character as you make your way towards North City. Help the survivors avoid permanent death through your decisions in combat and ration management, and they just might be able to reach the fabled Sanctuary.
+.
 
 + **History**  
 **《Wanna Survive》**began development in May 2018 by Max Chen, who wants to introduce turn-based strategy to a wider audience by removing some of its more deterring elements, like the slow, and often tedious controls.
 
 + **Features**
-	+ Streamlined turn-based strategy
-	+ Focus on unit synergies and placement
-	+ Challenging stages
-	+ Engaging mix of survival combat and character stories
-	+ Enemies with mob-like movement for a true zombie experience
-	+ Delicious pixel art
-	+ Death is permanent. Party members cannot be revived after they die.
+	- Streamlined turn-based tactical combat.
+	- Fast, simultaneous enemy movement for a true zombie mob experience.
+	- Challenging stages to test your tactical skills
+	- Focus on unit synergies and placement.
+	- Permanent death. Characters who die are gone for good.
+	- Ration management. Choose carefully who gets to eat.
+	- Delicious pixel art
 
 ---
 <!--Awards & Recognition-->
