@@ -22,19 +22,29 @@ photos:
 - PressKit-WS/WSImages/010.png
 - PressKit-WS/WSImages/011.png
 - PressKit-WS/WSImages/012.png
+- PressKit-WS/WSImages/store001.gif
+- PressKit-WS/WSImages/store002.gif
+- PressKit-WS/WSImages/store003.gif
+- PressKit-WS/WSImages/store004.gif
+- PressKit-WS/WSImages/store005.gif
+- PressKit-WS/WSImages/store006.gif
+- PressKit-WS/WSImages/store007.gif
 photoPackage: PressKit-WS/WSImages.zip
 
 logos: 
 - PressKit-WS/WSLogos/WannaSurviveLogo.png
+- PressKit-WS/WSLogos/WannaSurviveLogo_SubC.png
 logoPackage: PressKit-WS/WSLogos.zip
 ---
 <!--統一管理連結-->
 [PINIXPressKitLink]: /PressKit-PINIX/zh-TW/
+[STEAMLINK]: https://store.steampowered.com/app/1084480/Wanna_Survive
+[MAXWEIWEB]: https://maxweichen.github.io/
 <!--統一管理連結-->
 <a href="../en/" class="button small" target=_self>English</a>
 <table><td><h1>基本資料<h1></td></table>
 + **遊戲名稱**  
-Wanna Survive
+Wanna Survive-活屍戰棋
 
 + **開發者**  
 貝努遊戲 PINIX  
@@ -44,7 +54,7 @@ Wanna Survive
 預定 2019 夏
 
 + **發行平台**  
-預定 Steam(PC / Mac) 2019<!--要更新連結-->
+預定 [Steam(PC / Mac)][STEAMLINK]
 
 + **網站**  
 ** {% post_link WannaSurvive %} **
@@ -54,13 +64,13 @@ Wanna Survive
 
 ---
 + **概述**  
-《Wanna Survive》是一款末日活屍風格的回合制戰棋遊戲
-極度優化傳統戰棋冗長的戰鬥流程，大量活屍同時進攻，等待敵方回合只需「數秒」之間！
-低數值策略設計，強調走位、佈局、角色互補，「解局」般的戰略思考！
-生存抉擇機制，食物分配、戰略錯誤將使角色「永久死亡」，考驗你是否能在活屍橫行的末日中找到最後的避難所。
+《Wanna Survive-活屍戰棋》是一款末日活屍風格的回合制戰棋遊戲，操作倖存者們對抗各種活屍，從初始營地一路突破至目標「北市」。
+	- 極度優化傳統戰棋冗長的戰鬥流程，大量活屍同時進攻，等待敵方回合只需「數秒」之間！
+	- 低數值策略設計，強調走位、佈局、角色互補，「解局」般的戰略思考！
+	- 生存抉擇機制，食物分配、戰略錯誤將使角色「永久死亡」，考驗你是否能在活屍橫行的末日中找到最後的避難所。
 
 + **源起**  
-《Wanna Survive》是由陳亦威由2018年月開始獨立開發，由於只有一人開發，所以遊戲玩法和題材都來自於作者個人喜好，覺得對現今玩家來說戰棋遊戲最大的問題就是過慢的節奏感，希望能將會讓人思考並突破困難的戰棋遊戲體驗重新帶給玩家
+《Wanna Survive-活屍戰棋》是由陳亦威由2018年5月開始獨立開發，由於只有一人開發，所以遊戲玩法和題材都來自於作者個人喜好，覺得對現今玩家來說戰棋遊戲最大的問題就是過慢的節奏感，希望能將會讓人思考並突破困難的戰棋遊戲體驗重新帶給玩家
 
 + **特點**
 	- 簡化傳統戰棋過度繁瑣的操作，優化遊戲節奏
@@ -85,7 +95,7 @@ Wanna Survive
 
 ---
 + **Wanna Survive 製作者**
-陳亦威
+[陳亦威][MAXWEIWEB]
 
 + **連絡方式**
 email: ** maxwei@pinixgames.com **

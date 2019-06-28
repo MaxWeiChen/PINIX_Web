@@ -22,14 +22,24 @@ photos:
 - PressKit-WS/WSImages/010.png
 - PressKit-WS/WSImages/011.png
 - PressKit-WS/WSImages/012.png
+- PressKit-WS/WSImages/store001.gif
+- PressKit-WS/WSImages/store002.gif
+- PressKit-WS/WSImages/store003.gif
+- PressKit-WS/WSImages/store004.gif
+- PressKit-WS/WSImages/store005.gif
+- PressKit-WS/WSImages/store006.gif
+- PressKit-WS/WSImages/store007.gif
 photoPackage: PressKit-WS/WSImages.zip
 
 logos: 
 - PressKit-WS/WSLogos/WannaSurviveLogo.png
+- PressKit-WS/WSLogos/WannaSurviveLogo_SubC.png 
 logoPackage: PressKit-WS/WSLogos.zip
 ---
 <!--統一管理連結-->
 [PINIXPressKitLink]: /PressKit-PINIX/en/
+[STEAMLINK]: https://store.steampowered.com/app/1084480/Wanna_Survive
+[MAXWEIWEB]: https://maxweichen.github.io/
 <!--統一管理連結-->
 <a href="../zh-TW/" class="button small" target=_self>繁體中文</a>
 <table><td><h1>Factsheet<h1></td></table>
@@ -44,7 +54,7 @@ Based in Taipei, Taiwan
 summer, 2019
 
 + **Platforms**  
-Steam(PC / Mac)  <!--要更新連結-->
+[Steam(PC / Mac)][STEAMLINK]
 
 + **Website**  
 ** {% post_link WannaSurvive %} **
@@ -79,7 +89,7 @@ As a single developer, Max Chen believes that the limitations of solo developmen
 
 ---
 + **Wanna Survive Developer**  
-Max Chen
+[Max Chen][MAXWEIWEB]
 
 + **Contact**
 email: ** maxwei@pinixgames.com **

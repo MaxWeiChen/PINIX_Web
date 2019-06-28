@@ -10,7 +10,7 @@ cover_detail: /Sources/WannaSurviveBg.png
 Wanna Survive is a zombie apocalypse turn-based tactics game. It features a highly streamlined combat system that removes the tedious elements of turn-based combat for engaging fights against large groups of mob-like enemies that focuses on unit placement and synergies.
 The game features a diverse cast of character as you make your way towards North City. Help the survivors avoid permanent death through your decisions in combat and ration management, and they just might be able to reach the fabled Sanctuary.
 
-《Wanna Survive》
+《Wanna Survive-活屍戰棋》
 是一款末日活屍風格的回合制戰棋遊戲
 極度優化傳統戰棋冗長的戰鬥流程，大量活屍同時進攻，等待敵方回合只需「數秒」之間！
 低數值策略設計，強調走位、佈局、角色互補，「解局」般的戰略思考！
