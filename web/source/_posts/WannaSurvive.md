@@ -17,7 +17,7 @@ The game features a diverse cast of character as you make your way towards North
 生存抉擇機制，食物分配、戰略錯誤將使角色「永久死亡」，考驗你是否能在活屍橫行的末日中找到最後的避難所。
 
 ---
-{% youtube 457rNYpXAQc %}
+{% youtube Y_G1oyTMprY %}
 
 ---
 <!--遊戲PressKit連結-->

@@ -10,6 +10,9 @@ photos:
 - PressKit-PINIX/PINIXImages/004.jpg
 - PressKit-PINIX/PINIXImages/005.jpg
 - PressKit-PINIX/PINIXImages/006.jpg
+- PressKit-PINIX/PINIXImages/007.jpg
+- PressKit-PINIX/PINIXImages/008.jpg
+- PressKit-PINIX/PINIXImages/009.jpg
 photoPackage: PressKit-PINIX/PINIXImages.zip
 
 logos: 

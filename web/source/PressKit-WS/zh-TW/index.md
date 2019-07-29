@@ -7,7 +7,7 @@ logoTitle: Logo
 cover_detail: /Sources/WannaSurviveBanner.png
 
 videos: 
-- //www.youtube.com/embed/457rNYpXAQc
+- //www.youtube.com/embed/Y_G1oyTMprY
 
 photos: 
 - PressKit-WS/WSImages/001.png
@@ -22,6 +22,7 @@ photos:
 - PressKit-WS/WSImages/010.png
 - PressKit-WS/WSImages/011.png
 - PressKit-WS/WSImages/012.png
+- PressKit-WS/WSImages/013.png
 - PressKit-WS/WSImages/store001.gif
 - PressKit-WS/WSImages/store002.gif
 - PressKit-WS/WSImages/store003.gif
@@ -86,6 +87,7 @@ Wanna Survive-活屍戰棋
 + **相關報導**
 	+ 一人打造末日活屍新作《Wanna Survive》 希望讓玩家感受戰棋遊戲樂趣, [**巴哈姆特**](https://gnn.gamer.com.tw/2/174702.html)
 	+ 一人研發像素風戰棋新作《Wanna Survive》在食物與活屍危機中謀求生路, [**遊戲基地**](https://www.gamebase.com.tw/news/topic/99145932/)
+	+ 硬派燒腦遊戲《活屍戰棋》 快節奏設計需重視走位互補, [**遊戲角落**](https://game.udn.com/game/story/10453/3926601)
 
 
 + **關於 貝努遊戲 PINIX**  

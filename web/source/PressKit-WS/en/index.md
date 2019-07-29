@@ -7,7 +7,7 @@ logoTitle: Logos
 cover_detail: /Sources/WannaSurviveBanner.png
 
 videos: 
-- //www.youtube.com/embed/457rNYpXAQc
+- //www.youtube.com/embed/Y_G1oyTMprY
 
 photos: 
 - PressKit-WS/WSImages/001.png
@@ -22,6 +22,7 @@ photos:
 - PressKit-WS/WSImages/010.png
 - PressKit-WS/WSImages/011.png
 - PressKit-WS/WSImages/012.png
+- PressKit-WS/WSImages/013.png
 - PressKit-WS/WSImages/store001.gif
 - PressKit-WS/WSImages/store002.gif
 - PressKit-WS/WSImages/store003.gif
