@@ -55,7 +55,7 @@ As a single developer, Max Chen believes that the limitations of solo developmen
 # Projects  
 + ## {% post_link WannaSurvive %}
 > PINIX Games' first title is an 8-bit zombie apocalypse turn-based strategy.
-> It is currently under development, and planned for release in 2019.
+> HIGH SPEED ZOMBIE TACTICS
 
 ---
 

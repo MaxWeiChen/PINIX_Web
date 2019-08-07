@@ -52,7 +52,7 @@ PINIX games studio
 Based in Taipei, Taiwan
 
 + **Release date**  
-summer, 2019
+Aug 14, 2019
 
 + **Platforms**  
 [Steam(PC / Mac)][STEAMLINK]
@@ -61,6 +61,7 @@ summer, 2019
 ** {% post_link WannaSurvive %} **
 
 + **Regular Price**  
+USD$ 11.99
   
 ---
 + **Description**  
@@ -89,7 +90,7 @@ As a single developer, Max Chen believes that the limitations of solo developmen
 [Click here][PINIXPressKitLink] for media packs and more info on PINIX Games
 
 ---
-+ **Wanna Survive Developer**  
++ **Developer**  
 [Max Chen][MAXWEIWEB]
 
 + **Contact**
