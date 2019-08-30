@@ -83,6 +83,10 @@ The game features a diverse cast of character as you make your way towards North
 
 ---
 <!--Awards & Recognition-->
++ **Awards**
+	+ BAHAMUT 2019 ACG **Gold Award** 
+	+ BAHAMUT 2019 ACG **Best Creativity Award**
+	
 <!--Selected Articles-->
 + **About PINIX**  
 As a single developer, Max Chen believes that the limitations of solo development can be utilized to bring out the strengths and personal touch of a game. He wishes to create enjoyable experiences that he can be proud of.
