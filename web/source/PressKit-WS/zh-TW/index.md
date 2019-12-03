@@ -10,6 +10,7 @@ videos:
 - //www.youtube.com/embed/Y_G1oyTMprY
 
 photos: 
+- PressKit-WS/WSImages/000.png
 - PressKit-WS/WSImages/001.png
 - PressKit-WS/WSImages/002.png
 - PressKit-WS/WSImages/003.png
@@ -30,6 +31,8 @@ photos:
 - PressKit-WS/WSImages/store005.gif
 - PressKit-WS/WSImages/store006.gif
 - PressKit-WS/WSImages/store007.gif
+- PressKit-WS/WSImages/promo.png
+- PressKit-WS/WSImages/promoSmall.png
 photoPackage: PressKit-WS/WSImages.zip
 
 logos: 
@@ -41,6 +44,8 @@ logoPackage: PressKit-WS/WSLogos.zip
 [PINIXPressKitLink]: /PressKit-PINIX/zh-TW/
 [STEAMLINK]: https://store.steampowered.com/app/1084480/Wanna_Survive
 [MAXWEIWEB]: https://maxweichen.github.io/
+[APPSTORELINK]: https://apps.apple.com/tw/app/wanna-survive-%E6%B4%BB%E5%B1%8D%E6%88%B0%E6%A3%8B/id1479816818
+[GOOGLEPLAYLINK]: https://play.google.com/store/apps/details?id=com.pinix.mercenary
 <!--統一管理連結-->
 <a href="../en/" class="button small" target=_self>English</a>
 <table><td><h1>基本資料<h1></td></table>
@@ -52,44 +57,54 @@ Wanna Survive-活屍戰棋
 位於 台北, 台灣   
 
 + **發售日**  
-Aug 14, 2019
+Aug 14, 2019 (Steam)  
+Nov 28, 2019 (App Store)  
+Nov 28, 2019 (Google Play)  
 
 + **發行平台**  
-[Steam(PC / Mac)][STEAMLINK]
+[Steam(PC / Mac)][STEAMLINK]  
+[App Store][APPSTORELINK]  
+[Google Play][GOOGLEPLAYLINK]
+
++ **售價**  
+NT$ 246 (Steam)  
+NT$ 100 (Mobile)  
+
 
 + **網站**  
 ** {% post_link WannaSurvive %} **
 
-+ **售價**  
-NT$ 246
 
 
 ---
 + **概述**  
-「大量活屍同時來襲，敵方回合只需數秒之間！」  
-《Wanna Survive-活屍戰棋》是一款強調走位佈局深度策略的快節奏回合制戰棋遊戲。  
-末日活屍風格，操作倖存者們對抗各種活屍，從初始營地一路突破至目標「北市」。
-	- 極度優化傳統戰棋冗長的戰鬥流程，大量活屍同時進攻，等待敵方回合只需「數秒」之間！
-	- 低數值策略設計，強調走位、佈局、角色互補，「解局」般的戰略思考！
-	- 生存抉擇機制，食物分配、戰略錯誤將使角色「永久死亡」，考驗你是否能在活屍橫行的末日中找到最後的避難所。
+「解殘局」般的快節奏回合制戰棋
+《Wanna Survive-活屍戰棋》是一款末日活屍風格，強調佈局走位深度策略，難度較高的硬核回合制戰棋遊戲。
+  操作倖存者們對抗不同種類的活屍，並從初始的營地一路突破至目標「北市」。
+  - 大量活屍同時進攻，等待敵方回合只需「數秒」之間！
+  - 低數值策略設計，強調走位佈局「解殘局」的戰略思考！
+  - 生存抉擇機制，食物分配戰略錯誤將使角色「永久死亡」！
 
 + **源起**  
-《Wanna Survive-活屍戰棋》是由陳亦威由2018年5月開始獨立開發，由於只有一人開發，所以遊戲玩法和題材都來自於作者個人喜好，覺得對現今玩家來說戰棋遊戲最大的問題就是過慢的節奏感，希望能將會讓人思考並突破困難的戰棋遊戲體驗重新帶給玩家
+《Wanna Survive-活屍戰棋》是由陳亦威由2018年5月開始獨立開發，由於只有一人開發，所以遊戲玩法和題材都來自於作者個人喜好，覺得對現今玩家來說戰棋遊戲最大的問題就是過慢的節奏感，希望能將會讓人思考並突破困難的戰棋遊戲體驗重新帶給玩家。
 
-+ **特點**
-	- 簡化傳統戰棋過度繁瑣的操作，優化遊戲節奏
-	- 敵方角色能同時進攻，等待敵方回合只需數秒之間，給予玩家大量活屍逼近壓迫感的戰鬥流程
-	- 低數值策略設計，強調走位、佈局、角色互補，如同解局的戰略思考
-	- 永久死亡機制，角色如果死亡，將不會復活
-	- 食物分配抉擇，將努力找到有限的食物分配給成員
-	- 精心設計充滿挑戰難度的關卡設計
-	- 像素美術風格
++ **特點**  
+	- 簡化傳統戰棋過度繁瑣的操作，優化遊戲節奏。
+	- 敵方同時進攻的戰棋，不用再苦等敵方回合，並給予活屍逼近壓迫感。
+	- 低數值策略設計，強調走位、佈局、角色互補，解局的深度戰略思考。
+	- 永久死亡機制，角色如果死亡，將不會復活，更加步步為營。
+	- 食物分配抉擇，將努力找到有限的食物分配給成員。
+	- 精心設計充滿挑戰難度的關卡設計。
+	- 像素美術風格。
 
 ---
 <!--獎項 和 認可-->
-+ **獎項**
++ **獎項 和 認可**
 	+ 巴哈姆特 2019 ACG 創作大賽 **金賞**
 	+ 巴哈姆特 2019 ACG 創作大賽 **最佳創意獎**
+	+ App Store 新品推薦 (日本)
+	+ App Store 付費榜冒險遊戲 第2名 (台灣)
+	+ App Store 付費榜 第5名 (台灣)
 	
 + **相關報導**
 	+ 一人打造末日活屍新作《Wanna Survive》 希望讓玩家感受戰棋遊戲樂趣, [**巴哈姆特**](https://gnn.gamer.com.tw/2/174702.html)

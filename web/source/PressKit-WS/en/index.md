@@ -10,6 +10,7 @@ videos:
 - //www.youtube.com/embed/Y_G1oyTMprY
 
 photos: 
+- PressKit-WS/WSImages/000.png
 - PressKit-WS/WSImages/001.png
 - PressKit-WS/WSImages/002.png
 - PressKit-WS/WSImages/003.png
@@ -30,6 +31,8 @@ photos:
 - PressKit-WS/WSImages/store005.gif
 - PressKit-WS/WSImages/store006.gif
 - PressKit-WS/WSImages/store007.gif
+- PressKit-WS/WSImages/promo.png
+- PressKit-WS/WSImages/promoSmall.png
 photoPackage: PressKit-WS/WSImages.zip
 
 logos: 
@@ -41,6 +44,8 @@ logoPackage: PressKit-WS/WSLogos.zip
 [PINIXPressKitLink]: /PressKit-PINIX/en/
 [STEAMLINK]: https://store.steampowered.com/app/1084480/Wanna_Survive
 [MAXWEIWEB]: https://maxweichen.github.io/
+[APPSTORELINK]: https://apps.apple.com/us/app/wanna-survive/id1479816818
+[GOOGLEPLAYLINK]: https://play.google.com/store/apps/details?id=com.pinix.mercenary
 <!--統一管理連結-->
 <a href="../zh-TW/" class="button small" target=_self>繁體中文</a>
 <table><td><h1>Factsheet<h1></td></table>
@@ -52,16 +57,22 @@ PINIX games studio
 Based in Taipei, Taiwan
 
 + **Release date**  
-Aug 14, 2019
+Aug 14, 2019 (Steam)  
+Nov 28, 2019 (App Store)  
+Nov 28, 2019 (Google Play)  
 
 + **Platforms**  
-[Steam(PC / Mac)][STEAMLINK]
+[Steam(PC / Mac)][STEAMLINK]  
+[App Store][APPSTORELINK]  
+[Google Play][GOOGLEPLAYLINK]
+
++ **Regular Price**  
+USD$ 11.99 (Steam)  
+USD$ 2.99 (Mobile)  
 
 + **Website**  
 ** {% post_link WannaSurvive %} **
 
-+ **Regular Price**  
-USD$ 11.99
   
 ---
 + **Description**  
@@ -86,6 +97,8 @@ The game features a diverse cast of character as you make your way towards North
 + **Awards**
 	+ BAHAMUT 2019 ACG **Gold Award** 
 	+ BAHAMUT 2019 ACG **Best Creativity Award**
+	+ App Store New Game Feature (Japan)
+	+ App Store Top Paid Game No.5 (Taiwan)
 	
 <!--Selected Articles-->
 + **About PINIX**  
