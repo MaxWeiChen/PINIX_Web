@@ -8,6 +8,9 @@ cover_detail: /Sources/WannaSurviveBanner.png
 
 videos: 
 - //www.youtube.com/embed/Y_G1oyTMprY
+- //www.youtube.com/embed/yq32uq-7vFI
+- //www.youtube.com/embed/CNs5aHBAZvg
+- //www.youtube.com/embed/WFy5wr6gWME
 
 photos: 
 - PressKit-WS/WSImages/000.png
@@ -46,6 +49,7 @@ logoPackage: PressKit-WS/WSLogos.zip
 [MAXWEIWEB]: https://maxweichen.github.io/
 [APPSTORELINK]: https://apps.apple.com/tw/app/wanna-survive-%E6%B4%BB%E5%B1%8D%E6%88%B0%E6%A3%8B/id1479816818
 [GOOGLEPLAYLINK]: https://play.google.com/store/apps/details?id=com.pinix.mercenary
+[AppStoreFeatures]: /PressKit-WS/AppStoreFeatures/
 <!--統一管理連結-->
 <a href="../en/" class="button small" target=_self>English</a>
 <table><td><h1>基本資料<h1></td></table>
@@ -102,14 +106,18 @@ NT$ 100 (Mobile)
 + **獎項 和 認可**
 	+ 巴哈姆特 2019 ACG 創作大賽 **金賞**
 	+ 巴哈姆特 2019 ACG 創作大賽 **最佳創意獎**
-	+ App Store 新品推薦 (日本)
-	+ App Store 付費榜冒險遊戲 第2名 (台灣)
-	+ App Store 付費榜 第5名 (台灣)
+	+ App Store 台灣 日本 中國 新品推薦
+	+ App Store 台灣付費榜策略遊戲 第1名
+	+ App Store 台灣付費榜 第3名
+	+ App Store [編輯推薦 (台灣, 中國, 美國)][AppStoreFeatures]
 	
 + **相關報導**
 	+ 一人打造末日活屍新作《Wanna Survive》 希望讓玩家感受戰棋遊戲樂趣, [**巴哈姆特**](https://gnn.gamer.com.tw/2/174702.html)
 	+ 一人研發像素風戰棋新作《Wanna Survive》在食物與活屍危機中謀求生路, [**遊戲基地**](https://www.gamebase.com.tw/news/topic/99145932/)
 	+ 硬派燒腦遊戲《活屍戰棋》 快節奏設計需重視走位互補, [**遊戲角落**](https://game.udn.com/game/story/10453/3926601)
+	+ Visual cues help simplify a complex game [**Jupiter Hadley**](https://gameanalytics.com/blog/5-indie-games-released-november.html)
+	+ At first glance looks like a casual game but in reality, the turn-based mechanics go to marry perfectly with the zombies also guaranteeing a certain depth in the gameplay [**TRUN BASED LOVERS**](https://turnbasedlovers.com/overview/wanna-survive/)
+	+ Be sure to pick this up if you love the zombie genre or turn-based tactical games in general — as long as you have brains, you’re in for a treat! [**Hey Poor Player**](https://www.heypoorplayer.com/2019/12/22/wanna-survive-review-pc/)
 
 + **關於 貝努遊戲 PINIX**  
 成立於2018年5年，喜歡遊戲，所以做遊戲，只希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  

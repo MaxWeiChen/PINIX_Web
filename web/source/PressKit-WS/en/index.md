@@ -8,6 +8,9 @@ cover_detail: /Sources/WannaSurviveBanner.png
 
 videos: 
 - //www.youtube.com/embed/Y_G1oyTMprY
+- //www.youtube.com/embed/yq32uq-7vFI
+- //www.youtube.com/embed/CNs5aHBAZvg
+- //www.youtube.com/embed/WFy5wr6gWME
 
 photos: 
 - PressKit-WS/WSImages/000.png
@@ -46,6 +49,7 @@ logoPackage: PressKit-WS/WSLogos.zip
 [MAXWEIWEB]: https://maxweichen.github.io/
 [APPSTORELINK]: https://apps.apple.com/us/app/wanna-survive/id1479816818
 [GOOGLEPLAYLINK]: https://play.google.com/store/apps/details?id=com.pinix.mercenary
+[AppStoreFeatures]: /PressKit-WS/AppStoreFeatures/
 <!--統一管理連結-->
 <a href="../zh-TW/" class="button small" target=_self>繁體中文</a>
 <table><td><h1>Factsheet<h1></td></table>
@@ -94,11 +98,17 @@ The game features a diverse cast of character as you make your way towards North
 
 ---
 <!--Awards & Recognition-->
-+ **Awards**
++ **Awards & Recognitio**
 	+ BAHAMUT 2019 ACG **Gold Award** 
 	+ BAHAMUT 2019 ACG **Best Creativity Award**
-	+ App Store New Game Feature (Japan)
-	+ App Store Top Paid Game No.5 (Taiwan)
+	+ App Store New Game Feature (Taiwan, China, Japan)
+	+ App Store Top Paid Game No.3 (Taiwan)  
+	+ App Store [Apple editor's choice (Taiwan, China, USA)][AppStoreFeatures]
+
++ **Reviews**
+	+ Visual cues help simplify a complex game [**Jupiter Hadley**](https://gameanalytics.com/blog/5-indie-games-released-november.html) 
+	+ At first glance looks like a casual game but in reality, the turn-based mechanics go to marry perfectly with the zombies also guaranteeing a certain depth in the gameplay [**TRUN BASED LOVERS**](https://turnbasedlovers.com/overview/wanna-survive/)
+	+ Be sure to pick this up if you love the zombie genre or turn-based tactical games in general — as long as you have brains, you’re in for a treat! [**Hey Poor Player**](https://www.heypoorplayer.com/2019/12/22/wanna-survive-review-pc/)
 	
 <!--Selected Articles-->
 + **About PINIX**  
