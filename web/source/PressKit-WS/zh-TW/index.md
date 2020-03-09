@@ -104,6 +104,8 @@ NT$ 100 (Mobile)
 ---
 <!--獎項 和 認可-->
 + **獎項 和 認可**
+	+ IMGA Global 16th **入圍** 
+	<img src="../Awards/Nominees-IMGA-16th-black.png" height="110px">
 	+ 巴哈姆特 2019 ACG 創作大賽 **金賞**
 	+ 巴哈姆特 2019 ACG 創作大賽 **最佳創意獎**
 	+ App Store 台灣 日本 中國 新品推薦

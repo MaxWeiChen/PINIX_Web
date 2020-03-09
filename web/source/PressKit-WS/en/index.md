@@ -99,6 +99,8 @@ The game features a diverse cast of character as you make your way towards North
 ---
 <!--Awards & Recognition-->
 + **Awards & Recognitio**
+	+ IMGA Global 16th **Nominated** 
+	<img src="../Awards/Nominees-IMGA-16th-black.png" height="110px">
 	+ BAHAMUT 2019 ACG **Gold Award** 
 	+ BAHAMUT 2019 ACG **Best Creativity Award**
 	+ App Store New Game Feature (Taiwan, China, Japan)

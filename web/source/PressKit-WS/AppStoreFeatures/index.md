@@ -8,10 +8,14 @@ title: App Store Features
 + Feb 08, 2020 - [LINK](https://apps.apple.com/tw/story/id1490826912)
 ![](20200208_TW.png)
 
+<table><td><h1>China</h1></td></table>
++ Jan 19, 2020 - [LINK](https://apps.apple.com/cn/story/id1487071819)
+![](20200119_CN.png)
+
 <table><td><h1>USA</h1></td></table>
 + Feb 21, 2020 - [LINK](https://apps.apple.com/us/story/id1485494810)
 ![](20200221_USA.png)
 
-<table><td><h1>China</h1></td></table>
-+ Jan 19, 2020
-![](20200119_CN.png)
+<table><td><h1>Japan</h1></td></table>
++ Feb 25, 2020 - [LINK](https://apps.apple.com/jp/story/id1485494810)
+![](20200225_JP.png)
