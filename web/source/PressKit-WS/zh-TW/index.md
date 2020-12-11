@@ -108,6 +108,7 @@ NT$ 100 (Mobile)
 	<img src="../Awards/Nominees-IMGA-16th-black.png" height="110px">
 	+ 巴哈姆特 2019 ACG 創作大賽 **金賞**
 	+ 巴哈姆特 2019 ACG 創作大賽 **最佳創意獎**
+	+ 2019 數位內容產品獎 **最佳創意獎**
 	+ App Store 台灣 日本 中國 新品推薦
 	+ App Store 台灣付費榜策略遊戲 第1名
 	+ App Store 台灣付費榜 第3名
