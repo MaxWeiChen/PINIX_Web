@@ -28,7 +28,6 @@ logoPackage: PressKit-PINIX/PINIXLogos.zip
 <a href="../en/" class="button small" target=_self>English</a>
 # 簡介
 + **開發者**  
-貝努遊戲  
 PINIX games studio  
 位於 台北, 台灣  
 
@@ -44,6 +43,7 @@ maxwei@pinixgames.com
 + **社群**  
 twitter: ** www.twitter.com/pinixgames **  
 facebook: ** www.facebook.com/pinixgames **
+patreon: ** www.patreon.com/pinix **
 
 + **電話**
 +886 987 066 554
@@ -51,7 +51,7 @@ facebook: ** www.facebook.com/pinixgames **
 ---
 
 # 概述
-貝努遊戲-PINIX，成立於2018年5年，喜歡遊戲，所以做遊戲，只希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
+PINIX，成立於2018年5年，喜歡遊戲，所以做遊戲，只希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
 
 ---
 
@@ -60,6 +60,10 @@ facebook: ** www.facebook.com/pinixgames **
 > PINIX 的第一個作品，
 > 大量活屍同時來襲，敵方回合只需數秒之間！」  
 > 一款強調走位佈局深度策略的快節奏回合制戰棋遊戲。
+
++ ## {% post_link Alina %}
+> 開發中
+> 牌組構築roguelite結合戰棋策略
 ---
 
 # 成員

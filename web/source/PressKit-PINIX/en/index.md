@@ -43,6 +43,7 @@ maxwei@pinixgames.com
 + **Social**  
 twitter: ** www.twitter.com/pinixgames **  
 facebook: ** www.facebook.com/pinixgames **
+patreon: ** www.patreon.com/pinix **
 
 + **Phone**
 +886 987 066 554
@@ -59,6 +60,9 @@ As a single developer, Max Chen believes that the limitations of solo developmen
 > PINIX Games' first title is an 8-bit zombie apocalypse turn-based strategy.
 > HIGH SPEED ZOMBIE TACTICS
 
++ ## {% post_link Aline %}
+> Work in progress
+> Deckbuilder roguelite combine tactics
 ---
 
 # Team
