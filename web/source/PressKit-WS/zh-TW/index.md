@@ -1,10 +1,10 @@
 ---
-title: Press Kit _ Wanna Survive
+title: 活屍戰棋 - PressKit
 videoTitle: 影片
 photoTitle: 圖片
 logoTitle: Logo
 
-cover_detail: /Sources/WannaSurviveBanner.png
+cover_detail: ../Banner.png
 
 videos: 
 - //www.youtube.com/embed/Y_G1oyTMprY
@@ -57,7 +57,7 @@ logoPackage: PressKit-WS/WSLogos.zip
 Wanna Survive-活屍戰棋
 
 + **開發者**  
-貝努遊戲 PINIX  
+PINIX  
 位於 台北, 台灣   
 
 + **發售日**  
@@ -75,7 +75,7 @@ NT$ 246 (Steam)
 NT$ 100 (Mobile)  
 
 
-+ **網站**  
++ **售價**  
 ** {% post_link WannaSurvive %} **
 
 
@@ -122,10 +122,9 @@ NT$ 100 (Mobile)
 	+ At first glance looks like a casual game but in reality, the turn-based mechanics go to marry perfectly with the zombies also guaranteeing a certain depth in the gameplay [**TRUN BASED LOVERS**](https://turnbasedlovers.com/overview/wanna-survive/)
 	+ Be sure to pick this up if you love the zombie genre or turn-based tactical games in general — as long as you have brains, you’re in for a treat! [**Hey Poor Player**](https://www.heypoorplayer.com/2019/12/22/wanna-survive-review-pc/)
 
-+ **關於 貝努遊戲 PINIX**  
-成立於2018年5年，喜歡遊戲，所以做遊戲，只希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
-
-	如果想知道更多關於 貝努遊戲 的事，或需要其他媒體素材，請[**點這**][PINIXPressKitLink]。  
++ **關於 PINIX**  
+成立於2018年5年，喜歡遊戲，所以做遊戲，只希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣，
+如果想知道更多關於 PINIX 的事，或需要其他媒體素材，請[**點這**][PINIXPressKitLink]。  
 
 ---
 + **製作者**

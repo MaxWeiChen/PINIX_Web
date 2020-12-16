@@ -1,10 +1,10 @@
 ---
-title: Press Kit _ Wanna Survive
+title: Wanna Survive - PressKit
 videoTitle: Videos
 photoTitle: Images
 logoTitle: Logos
 
-cover_detail: /Sources/WannaSurviveBanner.png
+cover_detail: ../Banner.png
 
 videos: 
 - //www.youtube.com/embed/Y_G1oyTMprY

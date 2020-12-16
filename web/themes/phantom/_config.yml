@@ -3,8 +3,9 @@ menu:
   Games: /
   # Games: /categories/games/
   # About: /about/
-  PressKit_PINIX: /PressKit-PINIX/en/
-  PressKit_WannaSurvive: /PressKit-WS/en/
+  About: /PressKit-PINIX/en/
+  WannaSurvive - PressKit: /PressKit-WS/en/
+  Alina of the Arena - PressKit: /PressKit-Alina/en
 
 # favicon
 favicon: favicon.ico
