@@ -1,5 +1,5 @@
 ---
-title: Alina of the Arena 鬥技場的阿利娜
+title: Alina of the Arena
 date: 2020-012-11 00:00:00
 tags: 
 categories: Games
