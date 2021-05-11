@@ -7,7 +7,7 @@ photoTitle: Images
 logoTitle: Logos
 
 videos: 
-- //www.youtube.com/embed/CyrJLFPtTpI
+- //www.youtube.com/embed/WUd3_cZ2QJU
 
 photos: 
 - PressKit-Alina/Images/000.png
@@ -45,7 +45,7 @@ PINIX games studio
 Based in Taipei, Taiwan
 
 + **Release date**  
-※The game it still develop in progress and now be completed about 50%. we are looking for publisher someone interest in it.※
+※The game it still develop in progress and now be completed about 55%. we are looking for publisher someone interest in it.※
 
 + **Platforms**  
 Steam[PC / Mac]
@@ -60,8 +60,8 @@ Not ready
 ---
 + **Description**  
 **《Alina of the Arena》**
-The game is combined Tactics and Roguelike Deckbuilder game. 
-Player is a salve for survive, kills each other for entertained audience in Arena.
+The game combines "Slay the Spire" and "Into the breach", it's a roguelike deck builder and hexagon tactics game.
+You play as a slave named "Alina" who kills everyone to entertain audiences in a survival arena.
 
 <!--+ **History**  -->
 <!--+ **Features** -->

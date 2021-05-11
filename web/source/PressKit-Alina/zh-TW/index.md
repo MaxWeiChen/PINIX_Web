@@ -1,5 +1,5 @@
 ---
-title: 鬥技場的阿利娜(暫) - PressKit
+title: 鬥技場的阿利娜 - PressKit
 cover_detail: ../Banner.png
 
 videoTitle: Videos
@@ -7,7 +7,7 @@ photoTitle: Images
 logoTitle: Logos
 
 videos: 
-- //www.youtube.com/embed/CyrJLFPtTpI
+- //www.youtube.com/embed/WUd3_cZ2QJU
 
 photos: 
 - PressKit-Alina/Images/000.png
@@ -38,7 +38,7 @@ logoPackage: PressKit-Alina/Logos.zip
 <a href="../en/" class="button small" target=_self>ENGLISH</a>
 <table><td><h1>Factsheet<h1></td></table>
 + **遊戲名稱**  
-鬥技場的阿利娜(暫)
+鬥技場的阿利娜
 Alina of the Arena 
 
 + **開發者**  
@@ -46,7 +46,7 @@ PINIX
 位於 台北, 台灣   
 
 + **發售日**  
-※遊戲仍在開發中，完成度約50%，如果對遊戲有興趣的發行歡迎與我們聯絡※
+※遊戲仍在開發中，完成度約55%，如果對遊戲有興趣的發行歡迎與我們聯絡※
 
 + **發行平台**  
 [Steam(PC / Mac)]
@@ -60,8 +60,9 @@ Not ready
   
 ---
 + **概述**  
-玩家扮演一名為生存而戰的奴隸，在鬥技場中互相殘殺以娛樂嗜血觀眾。
-Roguelike牌組構築結合六角形戰棋，讓敵我雙方行動不再拘限於攻擊或防禦兩種抉擇，戰位選擇、擊退單位，創造出更多的生存機會吧！
+一款結合 Slay The Spire 殺戮尖塔 和 Into the breach 的戰棋Roguelike牌組構築遊戲，
+玩家扮演一名為生存而戰的奴隸，在角鬥場中互相殘殺以娛樂嗜血觀眾。
+牌組構築結合戰棋策略，讓思考不再拘限於只能攻擊或防禦，有效的閃避、擊退，創造出更多的生存機會吧！
 
 + **源起**  
 由2019巴哈姆特ACG金賞《活屍戰棋》的Max 和 2020放視大賞PC遊戲創作組-金獎《疫原-PlagueLand》的TissuTube 首次合作創作，嘗試結合Slay The Spire 和 Into the Breach這兩款獨立遊戲大作，希望能創作出全新的牌組構築遊戲體驗！
