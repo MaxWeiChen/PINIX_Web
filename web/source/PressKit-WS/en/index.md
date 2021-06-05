@@ -111,6 +111,7 @@ The game features a diverse cast of character as you make your way towards North
 	+ Visual cues help simplify a complex game [**Jupiter Hadley**](https://gameanalytics.com/blog/5-indie-games-released-november.html) 
 	+ At first glance looks like a casual game but in reality, the turn-based mechanics go to marry perfectly with the zombies also guaranteeing a certain depth in the gameplay [**TRUN BASED LOVERS**](https://turnbasedlovers.com/overview/wanna-survive/)
 	+ Be sure to pick this up if you love the zombie genre or turn-based tactical games in general — as long as you have brains, you’re in for a treat! [**Hey Poor Player**](https://www.heypoorplayer.com/2019/12/22/wanna-survive-review-pc/)
+	+ Wanna Survive is a fantastic little package. It’s got a good mix of scenarios, a great spread of character types, and the moment–to-moment tactics are satisfying when things fall into place. Carving a path to safety with melee strikes and covering everyone’s back with a few well-placed shots feels great. Unfortunately, the neverending horde sections add a bit too much pressure. [**Game Cirtics**](https://gamecritics.com/brad-gallaway/wanna-survive-review/)
 	
 <!--Selected Articles-->
 + **About PINIX**  
