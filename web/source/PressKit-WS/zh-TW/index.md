@@ -50,6 +50,7 @@ logoPackage: PressKit-WS/WSLogos.zip
 [APPSTORELINK]: https://apps.apple.com/tw/app/wanna-survive-%E6%B4%BB%E5%B1%8D%E6%88%B0%E6%A3%8B/id1479816818
 [GOOGLEPLAYLINK]: https://play.google.com/store/apps/details?id=com.pinix.mercenary
 [AppStoreFeatures]: /PressKit-WS/AppStoreFeatures/
+[SWITCHLINK]: https://www.nintendo.com/games/detail/wanna-survive-switch/
 <!--統一管理連結-->
 <a href="../en/" class="button small" target=_self>English</a>
 <table><td><h1>基本資料<h1></td></table>
@@ -64,16 +65,17 @@ PINIX
 Aug 14, 2019 (Steam)  
 Nov 28, 2019 (App Store)  
 Nov 28, 2019 (Google Play)  
+May 21, 2021 (Switch)
 
 + **發行平台**  
 [Steam(PC / Mac)][STEAMLINK]  
 [App Store][APPSTORELINK]  
-[Google Play][GOOGLEPLAYLINK]
+[Google Play][GOOGLEPLAYLINK]  
+[Switch][SWITCHLINK]
 
 + **售價**  
 NT$ 246 (Steam)  
 NT$ 100 (Mobile)  
-
 
 + **售價**  
 ** {% post_link WannaSurvive %} **

@@ -50,6 +50,7 @@ logoPackage: PressKit-WS/WSLogos.zip
 [APPSTORELINK]: https://apps.apple.com/us/app/wanna-survive/id1479816818
 [GOOGLEPLAYLINK]: https://play.google.com/store/apps/details?id=com.pinix.mercenary
 [AppStoreFeatures]: /PressKit-WS/AppStoreFeatures/
+[SWITCHLINK]: https://www.nintendo.com/games/detail/wanna-survive-switch/
 <!--統一管理連結-->
 <a href="../zh-TW/" class="button small" target=_self>繁體中文</a>
 <table><td><h1>Factsheet<h1></td></table>
@@ -64,15 +65,18 @@ Based in Taipei, Taiwan
 Aug 14, 2019 (Steam)  
 Nov 28, 2019 (App Store)  
 Nov 28, 2019 (Google Play)  
+May 21, 2021 (Switch)
 
 + **Platforms**  
 [Steam(PC / Mac)][STEAMLINK]  
 [App Store][APPSTORELINK]  
 [Google Play][GOOGLEPLAYLINK]
+[Switch][SWITCHLINK]
 
 + **Regular Price**  
 USD$ 11.99 (Steam)  
 USD$ 2.99 (Mobile)  
+USD$ 14.99 (Switch)
 
 + **Website**  
 ** {% post_link WannaSurvive %} **
