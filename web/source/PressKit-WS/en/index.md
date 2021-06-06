@@ -103,6 +103,8 @@ The game features a diverse cast of character as you make your way towards North
 ---
 <!--Awards & Recognition-->
 + **Awards & Recognitio**
+	+ Famitsu - **Silver Palace Award** in 2021
+	<img src="../Awards/fami-silver.png" height="220px">
 	+ IMGA Global 16th **Nominated** 
 	<img src="../Awards/Nominees-IMGA-16th-black.png" height="110px">
 	+ BAHAMUT 2019 ACG **Gold Award** 

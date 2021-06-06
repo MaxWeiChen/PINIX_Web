@@ -106,6 +106,8 @@ NT$ 100 (Mobile)
 ---
 <!--獎項 和 認可-->
 + **獎項 和 認可**
+	+ ファミ通 2021 入選 **白銀殿堂** 
+	<img src="../Awards/fami-silver.png" height="220px">
 	+ IMGA Global 16th **入圍** 
 	<img src="../Awards/Nominees-IMGA-16th-black.png" height="110px">
 	+ 巴哈姆特 2019 ACG 創作大賽 **金賞**
