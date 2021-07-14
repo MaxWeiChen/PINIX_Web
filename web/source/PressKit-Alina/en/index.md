@@ -6,20 +6,28 @@ videoTitle: Videos
 photoTitle: Images
 logoTitle: Logos
 
-videos: 
-- //www.youtube.com/embed/WUd3_cZ2QJU
-
 photos: 
-- PressKit-Alina/Images/000.png
-- PressKit-Alina/Images/001.png
-- PressKit-Alina/Images/002.png
-- PressKit-Alina/Images/003.png
-- PressKit-Alina/Images/004.png
-- PressKit-Alina/Images/005.png
-- PressKit-Alina/Images/006.png
-- PressKit-Alina/Images/007.png
+- PressKit-Alina/Images_Common/C000.png
+- PressKit-Alina/Images_Common/C001.png
+- PressKit-Alina/Images_Common/C002.png
+- PressKit-Alina/Images_Common/C003.png
+- PressKit-Alina/Images_Common/G000.gif
+- PressKit-Alina/Images_Common/G001.gif
+- PressKit-Alina/Images_Common/G002.gif
+- PressKit-Alina/Images_Common/G003.gif
+- PressKit-Alina/Images_Common/G004.gif
+- PressKit-Alina/Images_Common/G005.gif
+- PressKit-Alina/Images_Common/G006.gif
+- PressKit-Alina/Images_EN/000.png
+- PressKit-Alina/Images_EN/001.png
+- PressKit-Alina/Images_EN/002.png
+- PressKit-Alina/Images_EN/003.png
+- PressKit-Alina/Images_EN/004.png
+- PressKit-Alina/Images_EN/005.png
+- PressKit-Alina/Images_EN/006.png
+- PressKit-Alina/Images_EN/007.png
 
-photoPackage: PressKit-Alina/Images.zip
+photoPackage: PressKit-Alina/Images_EN.zip
 
 logos: 
 - PressKit-Alina/Logos/AlinaLogo_Black.png
@@ -27,6 +35,8 @@ logos:
 
 logoPackage: PressKit-Alina/Logos.zip
 ---
+<!-- videos: -->
+<!-- - //www.youtube.com/embed/WUd3_cZ2QJU  -->
 <!--統一管理連結-->
 [PINIXPressKitLink]: /PressKit-PINIX/en/
 [MAXWEIWEB]: https://maxweichen.github.io/
@@ -45,7 +55,7 @@ PINIX games studio
 Based in Taipei, Taiwan
 
 + **Release date**  
-※The game it still develop in progress and now be completed about 55%. we are looking for publisher someone interest in it.※
+2022
 
 + **Platforms**  
 Steam[PC / Mac]

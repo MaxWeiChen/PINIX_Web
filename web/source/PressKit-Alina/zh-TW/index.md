@@ -6,20 +6,28 @@ videoTitle: Videos
 photoTitle: Images
 logoTitle: Logos
 
-videos: 
-- //www.youtube.com/embed/WUd3_cZ2QJU
+photos:
+- PressKit-Alina/Images_Common/C000.png
+- PressKit-Alina/Images_Common/C001.png
+- PressKit-Alina/Images_Common/C002.png
+- PressKit-Alina/Images_Common/C003.png
+- PressKit-Alina/Images_Common/G000.gif
+- PressKit-Alina/Images_Common/G001.gif
+- PressKit-Alina/Images_Common/G002.gif
+- PressKit-Alina/Images_Common/G003.gif
+- PressKit-Alina/Images_Common/G004.gif
+- PressKit-Alina/Images_Common/G005.gif
+- PressKit-Alina/Images_Common/G006.gif
+- PressKit-Alina/Images_TW/000.png
+- PressKit-Alina/Images_TW/001.png
+- PressKit-Alina/Images_TW/002.png
+- PressKit-Alina/Images_TW/003.png
+- PressKit-Alina/Images_TW/004.png
+- PressKit-Alina/Images_TW/005.png
+- PressKit-Alina/Images_TW/006.png
+- PressKit-Alina/Images_TW/007.png
 
-photos: 
-- PressKit-Alina/Images/000.png
-- PressKit-Alina/Images/001.png
-- PressKit-Alina/Images/002.png
-- PressKit-Alina/Images/003.png
-- PressKit-Alina/Images/004.png
-- PressKit-Alina/Images/005.png
-- PressKit-Alina/Images/006.png
-- PressKit-Alina/Images/007.png
-
-photoPackage: PressKit-Alina/Images.zip
+photoPackage: PressKit-Alina/Images_TW.zip
 
 logos: 
 - PressKit-Alina/Logos/AlinaLogo_Black.png
@@ -27,6 +35,8 @@ logos:
 
 logoPackage: PressKit-Alina/Logos.zip
 ---
+<!-- videos: -->
+<!-- - //www.youtube.com/embed/WUd3_cZ2QJU  -->
 <!--統一管理連結-->
 [PINIXPressKitLink]: /PressKit-PINIX/en/
 [MAXWEIWEB]: https://maxweichen.github.io/
@@ -46,7 +56,7 @@ PINIX
 位於 台北, 台灣   
 
 + **發售日**  
-※遊戲仍在開發中，完成度約55%，如果對遊戲有興趣的發行歡迎與我們聯絡※
+2022
 
 + **發行平台**  
 [Steam(PC / Mac)]
@@ -69,7 +79,7 @@ Not ready
 
 + **特點**  
 	- 動態牌組構築：在遊玩過程中邂逅各式不同的卡牌，抉擇出你心目中最好的，組出獨一無二的牌組來挑戰關卡，讓你每次遊玩都會有不同的體驗。
-	- 戰棋策略思考：不同常見牌組構築遊戲只有思考攻擊或防禦，加入戰棋元素後更需要位移找尋生存空間，交換位置造成敵人自我殘殺，利用地形擊退敵人製造強化機會。
+	- 六角戰棋策略：不同常見牌組構築遊戲只有思考攻擊或防禦，加入戰棋元素後更需要位移找尋生存空間，交換位置造成敵人自我殘殺，利用地形擊退敵人製造強化機會。
 	- 雙手裝備系統：依照在左右不同手的裝備強化手牌，玩家可以手持雙匕首攻擊特化，也可以單手劍盾穩紮穩打，甚致雙手巨劍大殺四方，配合牌組找出本次戰鬥的最佳組合！
 
 ---

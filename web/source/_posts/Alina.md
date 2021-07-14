@@ -17,8 +17,10 @@ You play as a slave named "Alina" who kills everyone to entertain audiences in a
 牌組構築結合戰棋策略，讓思考不再拘限於只能攻擊或防禦，有效的閃避、擊退，創造出更多的生存機會吧！
 
 ---
+<!--
 11 min demo-gameplay 20210502
 {% youtube WUd3_cZ2QJU %}
+-->
 ---
 <!--遊戲PressKit連結-->
 <h2>Press Kit</h2>
