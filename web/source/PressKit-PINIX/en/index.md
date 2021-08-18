@@ -51,18 +51,22 @@ patreon: ** www.patreon.com/pinix **
 ---
 
 # Description
-As a single developer, Max Chen believes that the limitations of solo development can be utilized to bring out the strengths and personal touch of a game. He wishes to create enjoyable experiences that he can be proud of.
+PINIX Games was founded in 2018 and likes to create games that require 'thinking'.
+We hope to create enjoyable experiences that we can be proud of and that someone in the world will like it too.
 
 ---
 
 # Projects  
 + ## {% post_link WannaSurvive %}
-> PINIX Games' first title is an 8-bit zombie apocalypse turn-based strategy.
+<img src="../../Sources/WannaSurviveIcon.png" height="150px">
+> apocalypse turn-based strategy.
 > HIGH SPEED ZOMBIE TACTICS
 
 + ## {% post_link Aline %}
-> Work in progress
-> Deckbuilder roguelite combine tactics
+<img src="../../Sources/AlinaIcon.png" height="150px">
+> The game combines “Slay the Spire” and “Into the Breach”, it’s a roguelike deck builder and hexagon tactics game.
+You play as a slave named “Alina” who kills everyone to entertain audiences in a survival arena.
+
 ---
 
 # Team

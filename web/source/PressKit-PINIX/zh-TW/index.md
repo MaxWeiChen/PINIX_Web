@@ -51,19 +51,22 @@ patreon: ** www.patreon.com/pinix **
 ---
 
 # 概述
-PINIX，成立於2018年5年，喜歡遊戲，所以做遊戲，只希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
+PINIX，成立於2018年5年，喜歡也擅長於創作需要「思考」的遊戲，只希望能做出不愧對自己的遊戲，並讓其他人也能感受到它的樂趣  
 
 ---
 
 # 遊戲  
 + ## {% post_link WannaSurvive %}
+<img src="../../Sources/WannaSurviveIcon.png" height="150px">
 > PINIX 的第一個作品，
 > 大量活屍同時來襲，敵方回合只需數秒之間！」  
 > 一款強調走位佈局深度策略的快節奏回合制戰棋遊戲。
 
 + ## {% post_link Alina %}
-> 開發中
-> 牌組構築roguelite結合戰棋策略
+<img src="../../Sources/AlinaIcon.png" height="150px">
+> 一款結合 Slay The Spire 殺戮尖塔 和 Into the Breach 的戰棋Roguelike牌組構築遊戲，
+
+
 ---
 
 # 成員

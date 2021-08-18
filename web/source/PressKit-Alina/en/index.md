@@ -11,6 +11,7 @@ photos:
 - PressKit-Alina/Images_Common/C001.png
 - PressKit-Alina/Images_Common/C002.png
 - PressKit-Alina/Images_Common/C003.png
+- PressKit-Alina/Images_Common/C004.png
 - PressKit-Alina/Images_Common/G000.gif
 - PressKit-Alina/Images_Common/G001.gif
 - PressKit-Alina/Images_Common/G002.gif
@@ -70,8 +71,7 @@ Not ready
 ---
 + **Description**  
 **《Alina of the Arena》**
-The game combines "Slay the Spire" and "Into the Breach", it's a roguelike deck builder and hexagon tactics game.
-You play as a slave named "Alina" who kills everyone to entertain audiences in a survival arena.
+A roguelite deckbuilding tactics game that combines elements from 'Slay the Spire' and 'Into the Breach'. Play as a gladiator to survive. With roguelite deckbuilding and hex-based tactics, no longer bound by simple attack and defense. Make use of dodges and knockbacks to stay alive!
 
 <!--+ **History**  -->
 <!--+ **Features** -->

@@ -20,8 +20,8 @@ You play as a slave named "Alina" who kills everyone to entertain audiences in a
 <!--
 11 min demo-gameplay 20210502
 {% youtube WUd3_cZ2QJU %}
--->
 ---
+-->
 <!--遊戲PressKit連結-->
 <h2>Press Kit</h2>
 <div class=tags>
