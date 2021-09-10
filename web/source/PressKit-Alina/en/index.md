@@ -27,6 +27,7 @@ photos:
 - PressKit-Alina/Images_EN/005.png
 - PressKit-Alina/Images_EN/006.png
 - PressKit-Alina/Images_EN/007.png
+- PressKit-Alina/Images_EN/008.png
 
 photoPackage: PressKit-Alina/Images_EN.zip
 
