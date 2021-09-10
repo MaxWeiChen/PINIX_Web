@@ -36,9 +36,11 @@ logos:
 - PressKit-Alina/Logos/AlinaLogo_White.png
 
 logoPackage: PressKit-Alina/Logos.zip
+
+videos: 
+- //www.youtube.com/embed/XXQrk0sfh6U
+
 ---
-<!-- videos: -->
-<!-- - //www.youtube.com/embed/WUd3_cZ2QJU  -->
 <!--統一管理連結-->
 [PINIXPressKitLink]: /PressKit-PINIX/en/
 [MAXWEIWEB]: https://maxweichen.github.io/
