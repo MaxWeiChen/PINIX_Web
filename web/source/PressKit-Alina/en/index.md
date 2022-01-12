@@ -12,6 +12,7 @@ photos:
 - PressKit-Alina/Images_Common/C002.png
 - PressKit-Alina/Images_Common/C003.png
 - PressKit-Alina/Images_Common/C004.png
+- PressKit-Alina/Images_Common/C005.png
 - PressKit-Alina/Images_Common/G000.gif
 - PressKit-Alina/Images_Common/G001.gif
 - PressKit-Alina/Images_Common/G002.gif
