@@ -1,32 +1,37 @@
 ---
 title: Press Kit
-photoTitle: Images
-logoTitle: Logos
+cover_detail: ../Banner.png
 
+photoTitle: PHOTOS
 photos: 
-- PressKit-PINIX/PINIXImages/001.jpg
-- PressKit-PINIX/PINIXImages/002.jpg
-- PressKit-PINIX/PINIXImages/003.jpg
-- PressKit-PINIX/PINIXImages/004.jpg
-- PressKit-PINIX/PINIXImages/005.jpg
-- PressKit-PINIX/PINIXImages/006.jpg
-- PressKit-PINIX/PINIXImages/007.jpg
-- PressKit-PINIX/PINIXImages/008.jpg
-- PressKit-PINIX/PINIXImages/009.jpg
-- PressKit-PINIX/PINIXImages/010.jpg
-- PressKit-PINIX/PINIXImages/011.jpg 
+- /PressKit-PINIX/PINIXImages/001.jpg
+- /PressKit-PINIX/PINIXImages/002.jpg
+- /PressKit-PINIX/PINIXImages/003.jpg
+- /PressKit-PINIX/PINIXImages/004.jpg
+- /PressKit-PINIX/PINIXImages/005.jpg
+- /PressKit-PINIX/PINIXImages/006.jpg
+- /PressKit-PINIX/PINIXImages/007.jpg
+- /PressKit-PINIX/PINIXImages/008.jpg
+- /PressKit-PINIX/PINIXImages/009.jpg
+- /PressKit-PINIX/PINIXImages/010.jpg
+- /PressKit-PINIX/PINIXImages/011.jpg 
 photoPackage: PressKit-PINIX/PINIXImages.zip
 
+logoTitle: LOGOS
 logos: 
-- PressKit-PINIX/PINIXLogos/001.png
-- PressKit-PINIX/PINIXLogos/002.png
+- /PressKit-PINIX/PINIXLogos/001.png
+- /PressKit-PINIX/PINIXLogos/002.png
 logoPackage: PressKit-PINIX/PINIXLogos.zip
 ---
 <!--連結管理-->
 [PINIXWebLink]: http://www.pinixgames.com
 <!--連結管理-->
+<div class=tags>
 <a href="../zh-TW/" class="button small" target=_self>繁體中文</a>
-# Factsheet
+</div>
+
+---
+# FACTSHEET
 + **Developer**  
 PINIX games studio  
 Based in Taipei, Taiwan
@@ -50,25 +55,29 @@ patreon: ** www.patreon.com/pinix **
 
 ---
 
-# Description
+# DESCRIPTION
 PINIX Games was founded in 2018 and likes to create games that require 'thinking'.
 We hope to create enjoyable experiences that we can be proud of and that someone in the world will like it too.
 
 ---
 
-# Projects  
+# PROJECTS  
 + ## {% post_link WannaSurvive %}
-<img src="../../Sources/WannaSurviveIcon.png" height="150px">
-> apocalypse turn-based strategy.
-> HIGH SPEED ZOMBIE TACTICS
 
-+ ## {% post_link Aline %}
-<img src="../../Sources/AlinaIcon.png" height="150px">
-> The game combines “Slay the Spire” and “Into the Breach”, it’s a roguelike deck builder and hexagon tactics game.
-You play as a slave named “Alina” who kills everyone to entertain audiences in a survival arena.
+<table><td>
+<img src="../../Sources/WannaSurviveIcon.png" height="300px">
+</td></table>
+
++ ## {% post_link Alina %}
+<table><td>
+<img src="../../Sources/AlinaIcon.png" height="300px">
+</td></table>
+
 
 ---
 
 # Team
 Max Chen
 maxwei@pinixgames.com
+
+---

@@ -1,0 +1,29 @@
+<table>
+    <td>
+        <h1><%- item.photoTitle %></h1>
+    </td>
+    <td>
+        &emsp;&emsp;
+    </td>
+    <td>
+        <div class=tags>
+            <% if (item.photoPackage){ %>
+            <a href="<%- config.root %><%- item.photoPackage %>" class="button small" target=_self>
+                Download All
+            </a>
+            <% } %>
+        </div>
+    </td>
+</table>
+<div class="gallery-container">
+    <% if (item.photos.length){ %>
+    <% item.photos.forEach(function(photo){ %>
+    <div class="picture-container">
+        <a href="#" data-featherlight="<%- photo %>">
+            <img src="<%- photo %>" class="img-thumbnail" />
+        </a>
+    </div>
+    <% }); %>
+    <% } %>
+</div>
+<hr>

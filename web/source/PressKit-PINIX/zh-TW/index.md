@@ -1,31 +1,36 @@
 ---
 title: Press Kit
-photoTitle: 圖片
-logoTitle: Logos
+cover_detail: ../Banner.png
 
+photoTitle: PHOTOS
 photos: 
-- PressKit-PINIX/PINIXImages/001.jpg
-- PressKit-PINIX/PINIXImages/002.jpg
-- PressKit-PINIX/PINIXImages/003.jpg
-- PressKit-PINIX/PINIXImages/004.jpg
-- PressKit-PINIX/PINIXImages/005.jpg
-- PressKit-PINIX/PINIXImages/006.jpg
-- PressKit-PINIX/PINIXImages/007.jpg
-- PressKit-PINIX/PINIXImages/008.jpg
-- PressKit-PINIX/PINIXImages/009.jpg
-- PressKit-PINIX/PINIXImages/010.jpg
-- PressKit-PINIX/PINIXImages/011.jpg 
+- /PressKit-PINIX/PINIXImages/001.jpg
+- /PressKit-PINIX/PINIXImages/002.jpg
+- /PressKit-PINIX/PINIXImages/003.jpg
+- /PressKit-PINIX/PINIXImages/004.jpg
+- /PressKit-PINIX/PINIXImages/005.jpg
+- /PressKit-PINIX/PINIXImages/006.jpg
+- /PressKit-PINIX/PINIXImages/007.jpg
+- /PressKit-PINIX/PINIXImages/008.jpg
+- /PressKit-PINIX/PINIXImages/009.jpg
+- /PressKit-PINIX/PINIXImages/010.jpg
+- /PressKit-PINIX/PINIXImages/011.jpg 
 photoPackage: PressKit-PINIX/PINIXImages.zip
 
+logoTitle: LOGOS
 logos: 
-- PressKit-PINIX/PINIXLogos/001.png
-- PressKit-PINIX/PINIXLogos/002.png
+- /PressKit-PINIX/PINIXLogos/001.png
+- /PressKit-PINIX/PINIXLogos/002.png
 logoPackage: PressKit-PINIX/PINIXLogos.zip
 ---
 <!--連結管理-->
 [PINIXWebLink]: http://www.pinixgames.com
 <!--連結管理-->
+<div class=tags>
 <a href="../en/" class="button small" target=_self>English</a>
+</div>
+
+---
 # 簡介
 + **開發者**  
 PINIX games studio  
@@ -57,15 +62,17 @@ PINIX，成立於2018年5年。
 ---
 
 # 遊戲  
-+ ## {% post_link WannaSurvive %}
-<img src="../../Sources/WannaSurviveIcon.png" height="150px">
-> PINIX 的第一個作品，
-> 大量活屍同時來襲，敵方回合只需數秒之間！」  
-> 一款強調走位佈局深度策略的快節奏回合制戰棋遊戲。
-
++ ## {% post_link WannaSurvive %} 活屍戰棋
+大量活屍同時來襲，敵方回合只需數秒之間！」
+一款強調走位佈局深度策略的快節奏回合制戰棋遊戲。
+<table><td>
+<img src="../../Sources/WannaSurviveIcon.png" height="300px">
+</td></table>
 + ## {% post_link Alina %}
-<img src="../../Sources/AlinaIcon.png" height="150px">
-> 一款結合 Slay The Spire 殺戮尖塔 和 Into the Breach 的戰棋Roguelike牌組構築遊戲，
+一款結合 Slay The Spire 殺戮尖塔 和 Into the Breach 的戰棋Roguelike牌組構築遊戲
+<table><td>
+<img src="../../Sources/AlinaIcon.png" height="300px">
+</td></table>
 
 
 ---

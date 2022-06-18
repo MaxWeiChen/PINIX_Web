@@ -1,43 +1,40 @@
 ---
-title: 鬥技場的阿利娜 - PressKit
+title: 鬥技場的阿利娜
 cover_detail: ../Banner.png
 
-videoTitle: Videos
-photoTitle: Images
-logoTitle: Logos
-
+photoTitle: IMAGES
 photos:
-- PressKit-Alina/Images_Common/C000.png
-- PressKit-Alina/Images_Common/C001.png
-- PressKit-Alina/Images_Common/C002.png
-- PressKit-Alina/Images_Common/C003.png
-- PressKit-Alina/Images_Common/C004.png
-- PressKit-Alina/Images_Common/C005.png
-- PressKit-Alina/Images_Common/G000.gif
-- PressKit-Alina/Images_Common/G001.gif
-- PressKit-Alina/Images_Common/G002.gif
-- PressKit-Alina/Images_Common/G003.gif
-- PressKit-Alina/Images_Common/G004.gif
-- PressKit-Alina/Images_Common/G005.gif
-- PressKit-Alina/Images_Common/G006.gif
-- PressKit-Alina/Images_TW/000.png
-- PressKit-Alina/Images_TW/001.png
-- PressKit-Alina/Images_TW/002.png
-- PressKit-Alina/Images_TW/003.png
-- PressKit-Alina/Images_TW/004.png
-- PressKit-Alina/Images_TW/005.png
-- PressKit-Alina/Images_TW/006.png
-- PressKit-Alina/Images_TW/007.png
-- PressKit-Alina/Images_EN/008.png
-
+- /PressKit-Alina/Images_Common/C000.png
+- /PressKit-Alina/Images_Common/C001.png
+- /PressKit-Alina/Images_Common/C002.png
+- /PressKit-Alina/Images_Common/C003.png
+- /PressKit-Alina/Images_Common/C004.png
+- /PressKit-Alina/Images_Common/C005.png
+- /PressKit-Alina/Images_Common/G000.gif
+- /PressKit-Alina/Images_Common/G001.gif
+- /PressKit-Alina/Images_Common/G002.gif
+- /PressKit-Alina/Images_Common/G003.gif
+- /PressKit-Alina/Images_Common/G004.gif
+- /PressKit-Alina/Images_Common/G005.gif
+- /PressKit-Alina/Images_Common/G006.gif
+- /PressKit-Alina/Images_TW/000.png
+- /PressKit-Alina/Images_TW/001.png
+- /PressKit-Alina/Images_TW/002.png
+- /PressKit-Alina/Images_TW/003.png
+- /PressKit-Alina/Images_TW/004.png
+- /PressKit-Alina/Images_TW/005.png
+- /PressKit-Alina/Images_TW/006.png
+- /PressKit-Alina/Images_TW/007.png
+- /PressKit-Alina/Images_EN/008.png
 photoPackage: PressKit-Alina/Images_TW.zip
 
+logoTitle: LOGOS
 logos: 
-- PressKit-Alina/Logos/AlinaLogo_Black.png
-- PressKit-Alina/Logos/AlinaLogo_White.png
-
+- /PressKit-Alina/Logos/AlinaLogo_Black.png
+- /PressKit-Alina/Logos/AlinaLogo_White.png
 logoPackage: PressKit-Alina/Logos.zip
 
+videoTitle: VIDEOS
 videos: 
 - //www.youtube.com/embed/XXQrk0sfh6U
 
@@ -45,13 +42,18 @@ videos:
 <!--統一管理連結-->
 [PINIXPressKitLink]: /PressKit-PINIX/en/
 [MAXWEIWEB]: https://maxweichen.github.io/
-[STEAMLINK]: ..
+[STEAMLINK]: https://store.steampowered.com/app/1668690/
 [APPSTORELINK]: ..
 [GOOGLEPLAYLINK]: ..
 [TISSUETUBEWEB]: https://www.facebook.com/TissueTubeGames/
 <!--統一管理連結-->
+<div class=tags>
 <a href="../en/" class="button small" target=_self>ENGLISH</a>
-<table><td><h1>Factsheet<h1></td></table>
+</div>
+
+---
+<h1>PRESS-KIT</h1>
+
 + **遊戲名稱**  
 鬥技場的阿利娜
 Alina of the Arena 
@@ -61,17 +63,16 @@ PINIX
 位於 台北, 台灣   
 
 + **發售日**  
-2022
+Early Access: Jan. 14 2022
 
 + **發行平台**  
 [Steam(PC / Mac)]
 
 + **售價**  
-Not ready
+Early Access: NT$280
 
-+ **網站**  
-** {% post_link Alina %} **
-
++ **網站**
+Link: {% post_link Alina %}
   
 ---
 + **概述**  
@@ -94,7 +95,6 @@ Not ready
 + **關於 PINIX**  
 如果想知道更多關於 PINIX 的事或需要其他媒體素材，請[**點這**][PINIXPressKitLink]。  
 
----
 + **製作者**
 [陳亦威][MAXWEIWEB]  
 [阿筒][TISSUETUBEWEB]
@@ -104,4 +104,4 @@ email: ** maxwei@pinixgames.com **
 twitter: ** www.twitter.com/pinixgames **  
 facebook: ** www.facebook.com/pinixgames **
 
-	
+---

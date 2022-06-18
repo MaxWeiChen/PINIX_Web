@@ -1,0 +1,15 @@
+<table>
+    <td>
+        <h1><%- item.videoTitle %></h1>
+    </td>
+</table>
+<div class="videos-container">
+    <% if (item.videos.length){ %>
+        <% item.videos.forEach(function(video){ %>
+            <div class="video-container">
+                <iframe src=<%- video %> frameborder="0" allowfullscreen></iframe>
+            </div>
+        <% }); %>
+    <% } %>
+</div>
+<hr>

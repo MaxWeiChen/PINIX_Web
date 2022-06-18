@@ -1,5 +1,5 @@
 ---
-title: 活屍戰棋 - PressKit
+title: 活屍戰棋
 videoTitle: 影片
 photoTitle: 圖片
 logoTitle: Logo
@@ -52,8 +52,13 @@ logoPackage: PressKit-WS/WSLogos.zip
 [AppStoreFeatures]: /PressKit-WS/AppStoreFeatures/
 [SWITCHLINK]: https://www.nintendo.com/games/detail/wanna-survive-switch/
 <!--統一管理連結-->
+<div class=tags>
 <a href="../en/" class="button small" target=_self>English</a>
-<table><td><h1>基本資料<h1></td></table>
+</div>
+
+---
+<h1>PRESS-KIT</h1>
+
 + **遊戲名稱**  
 Wanna Survive-活屍戰棋
 

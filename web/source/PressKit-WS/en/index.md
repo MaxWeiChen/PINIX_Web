@@ -1,47 +1,47 @@
 ---
-title: Wanna Survive - PressKit
-videoTitle: Videos
-photoTitle: Images
-logoTitle: Logos
-
+title: Wanna Survive
 cover_detail: ../Banner.png
 
+photoTitle: IMAGES
+photos: 
+- /PressKit-WS/WSImages/000.png
+- /PressKit-WS/WSImages/001.png
+- /PressKit-WS/WSImages/002.png
+- /PressKit-WS/WSImages/003.png
+- /PressKit-WS/WSImages/004.png
+- /PressKit-WS/WSImages/005.png
+- /PressKit-WS/WSImages/006.png
+- /PressKit-WS/WSImages/007.png
+- /PressKit-WS/WSImages/008.png
+- /PressKit-WS/WSImages/009.png
+- /PressKit-WS/WSImages/010.png
+- /PressKit-WS/WSImages/011.png
+- /PressKit-WS/WSImages/012.png
+- /PressKit-WS/WSImages/013.png
+- /PressKit-WS/WSImages/store001.gif
+- /PressKit-WS/WSImages/store002.gif
+- /PressKit-WS/WSImages/store003.gif
+- /PressKit-WS/WSImages/store004.gif
+- /PressKit-WS/WSImages/store005.gif
+- /PressKit-WS/WSImages/store006.gif
+- /PressKit-WS/WSImages/store007.gif
+- /PressKit-WS/WSImages/promo.png
+- /PressKit-WS/WSImages/promoSmall.png
+photoPackage: PressKit-WS/WSImages.zip
+
+logoTitle: LOGOS
+logos: 
+- /PressKit-WS/WSLogos/WannaSurviveLogo.png
+- /PressKit-WS/WSLogos/WannaSurviveLogo_SubC.png 
+logoPackage: PressKit-WS/WSLogos.zip
+
+videoTitle: VIDEOS
 videos: 
 - //www.youtube.com/embed/Y_G1oyTMprY
 - //www.youtube.com/embed/yq32uq-7vFI
 - //www.youtube.com/embed/CNs5aHBAZvg
 - //www.youtube.com/embed/WFy5wr6gWME
 
-photos: 
-- PressKit-WS/WSImages/000.png
-- PressKit-WS/WSImages/001.png
-- PressKit-WS/WSImages/002.png
-- PressKit-WS/WSImages/003.png
-- PressKit-WS/WSImages/004.png
-- PressKit-WS/WSImages/005.png
-- PressKit-WS/WSImages/006.png
-- PressKit-WS/WSImages/007.png
-- PressKit-WS/WSImages/008.png
-- PressKit-WS/WSImages/009.png
-- PressKit-WS/WSImages/010.png
-- PressKit-WS/WSImages/011.png
-- PressKit-WS/WSImages/012.png
-- PressKit-WS/WSImages/013.png
-- PressKit-WS/WSImages/store001.gif
-- PressKit-WS/WSImages/store002.gif
-- PressKit-WS/WSImages/store003.gif
-- PressKit-WS/WSImages/store004.gif
-- PressKit-WS/WSImages/store005.gif
-- PressKit-WS/WSImages/store006.gif
-- PressKit-WS/WSImages/store007.gif
-- PressKit-WS/WSImages/promo.png
-- PressKit-WS/WSImages/promoSmall.png
-photoPackage: PressKit-WS/WSImages.zip
-
-logos: 
-- PressKit-WS/WSLogos/WannaSurviveLogo.png
-- PressKit-WS/WSLogos/WannaSurviveLogo_SubC.png 
-logoPackage: PressKit-WS/WSLogos.zip
 ---
 <!--統一管理連結-->
 [PINIXPressKitLink]: /PressKit-PINIX/en/
@@ -52,8 +52,13 @@ logoPackage: PressKit-WS/WSLogos.zip
 [AppStoreFeatures]: /PressKit-WS/AppStoreFeatures/
 [SWITCHLINK]: https://www.nintendo.com/games/detail/wanna-survive-switch/
 <!--統一管理連結-->
+<div class=tags>
 <a href="../zh-TW/" class="button small" target=_self>繁體中文</a>
-<table><td><h1>Factsheet<h1></td></table>
+</div>
+
+---
+<h1>PRESS-KIT</h1>
+
 + **Game Name**  
 Wanna Survive
 
@@ -100,8 +105,8 @@ The game features a diverse cast of character as you make your way towards North
 	- Ration management. Choose carefully who gets to eat.
 	- Delicious pixel art
 
----
 <!--Awards & Recognition-->
+---
 + **Awards & Recognitio**
 	+ Famitsu - **Silver Palace Award** in 2021
 	<img src="../Awards/fami-silver.png" height="220px">
@@ -113,6 +118,7 @@ The game features a diverse cast of character as you make your way towards North
 	+ App Store Top Paid Game No.3 (Taiwan)  
 	+ App Store [Apple editor's choice (Taiwan, China, USA)][AppStoreFeatures]
 
+---
 + **Reviews**
 	+ Visual cues help simplify a complex game [**Jupiter Hadley**](https://gameanalytics.com/blog/5-indie-games-released-november.html) 
 	+ At first glance looks like a casual game but in reality, the turn-based mechanics go to marry perfectly with the zombies also guaranteeing a certain depth in the gameplay [**TRUN BASED LOVERS**](https://turnbasedlovers.com/overview/wanna-survive/)
@@ -120,6 +126,7 @@ The game features a diverse cast of character as you make your way towards North
 	+ Wanna Survive is a fantastic little package. It’s got a good mix of scenarios, a great spread of character types, and the moment–to-moment tactics are satisfying when things fall into place. Carving a path to safety with melee strikes and covering everyone’s back with a few well-placed shots feels great. Unfortunately, the neverending horde sections add a bit too much pressure. [**Game Cirtics**](https://gamecritics.com/brad-gallaway/wanna-survive-review/)
 	
 <!--Selected Articles-->
+---
 + **About PINIX**  
 As a single developer, Max Chen believes that the limitations of solo development can be utilized to bring out the strengths and personal touch of a game. He wishes to create enjoyable experiences that he can be proud of.
 
@@ -134,4 +141,5 @@ email: ** maxwei@pinixgames.com **
 twitter: ** www.twitter.com/pinixgames **  
 facebook: ** www.facebook.com/pinixgames **
 
+---
 	

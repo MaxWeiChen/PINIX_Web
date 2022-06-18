@@ -1,0 +1,29 @@
+<table>
+    <td>
+        <h1><%- item.logoTitle %></h1>
+    </td>
+    <td>
+        &emsp;&emsp;
+    </td>
+    <td>
+        <div class=tags>
+            <% if (item.logoPackage){ %>
+            <a href="<%- config.root %><%- item.logoPackage %>" class="button small" target=_self>
+                Download All
+            </a>
+            <% } %>
+        </div>
+    </td>
+</table>
+<div class="gallery-container">
+    <% if (item.logos.length){ %>
+    <% item.logos.forEach(function(logo){ %>
+    <div class="picture-container">
+        <a href="#" data-featherlight="<%- logo %>">
+            <img src="<%- logo %>" class="img-thumbnail" />
+        </a>
+    </div>
+    <% }); %>
+    <% } %>
+</div>
+<hr>
