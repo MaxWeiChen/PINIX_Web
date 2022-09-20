@@ -15,8 +15,6 @@ photos:
 - /PressKit-Alina/Images_Common/G002.gif
 - /PressKit-Alina/Images_Common/G003.gif
 - /PressKit-Alina/Images_Common/G004.gif
-- /PressKit-Alina/Images_Common/G005.gif
-- /PressKit-Alina/Images_Common/G006.gif
 - /PressKit-Alina/Images_EN/000.png
 - /PressKit-Alina/Images_EN/001.png
 - /PressKit-Alina/Images_EN/002.png
@@ -26,6 +24,7 @@ photos:
 - /PressKit-Alina/Images_EN/006.png
 - /PressKit-Alina/Images_EN/007.png
 - /PressKit-Alina/Images_EN/008.png
+- /PressKit-Alina/Images_EN/009.png
 photoPackage: PressKit-Alina/Images_EN.zip
 
 logoTitle: LOGOS
@@ -36,7 +35,7 @@ logoPackage: PressKit-Alina/Logos.zip
 
 videoTitle: VIDEOS
 videos: 
-- //www.youtube.com/embed/XXQrk0sfh6U
+- //www.youtube.com/embed/iZn9uT1SJRw
 
 ---
 <!--統一管理連結-->
@@ -46,6 +45,7 @@ videos:
 [APPSTORELINK]: ..
 [GOOGLEPLAYLINK]: ..
 [TISSUETUBEWEB]: https://www.facebook.com/TissueTubeGames/
+[SOUNDTRACKLINK]: https://store.steampowered.com/app/2060330/_Soundtrack/
 <!--統一管理連結-->
 <div class=tags>
 <a href="../zh-TW/" class="button small" target=_self>繁體中文</a>
@@ -63,29 +63,33 @@ Based in Taipei, Taiwan
 
 + **Release date**  
 Early Access: Jan. 14 2022
+Release: Oct. 14 2022
 
 + **Platforms**  
 Steam[PC / Mac]
 
 + **Regular Price**  
-Early Access USD$12.99
+USD$14.99
 
-+ **Website**  
-Link: {% post_link Alina %}
++ **Link**  
+[Steam][STEAMLINK]
+[Soundtrack][SOUNDTRACKLINK]
 
 ---
-
 + **Description**  
 **《Alina of the Arena》**
 A roguelite deckbuilding tactics game that combines elements from 'Slay the Spire' and 'Into the Breach'. Play as a gladiator to survive. With roguelite deckbuilding and hex-based tactics, no longer bound by simple attack and defense. Make use of dodges and knockbacks to stay alive!
 
 <!--+ **History**  -->
-<!--+ **Features** -->
 ---
++ **Features**
+	- Taipei Game Show Indie Game Award 2022 Best Design Finalist
+	- GDWC 2021 PRO PC Game of the year Finalist
+
 <!--+ **Awards & Recognitio**-->
 <!--+ **Reviews**-->
 <!--Selected Articles-->
-
+---
 + **About PINIX**  
 [Click here][PINIXPressKitLink] for media packs and more info on PINIX Games
 
@@ -94,8 +98,8 @@ A roguelite deckbuilding tactics game that combines elements from 'Slay the Spir
 [TissueTube][TISSUETUBEWEB]
 
 + **Contact**
-email: ** maxwei@pinixgames.com **
-twitter: ** www.twitter.com/pinixgames **  
-facebook: ** www.facebook.com/pinixgames **
+email: **maxwei@pinixgames.com**
+twitter: **www.twitter.com/pinixgames**  
+facebook: **www.facebook.com/pinixgames**
 
 ---
