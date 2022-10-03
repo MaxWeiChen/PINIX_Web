@@ -1,8 +1,10 @@
 ---
 title: Wanna Survive
+videoTitle: VIDEOS
+photoTitle: IMAGES
+logoTitle: LOGOS
 cover_detail: ../Banner.png
 
-photoTitle: IMAGES
 photos: 
 - /PressKit-WS/WSImages/000.png
 - /PressKit-WS/WSImages/001.png
@@ -29,13 +31,11 @@ photos:
 - /PressKit-WS/WSImages/promoSmall.png
 photoPackage: PressKit-WS/WSImages.zip
 
-logoTitle: LOGOS
 logos: 
 - /PressKit-WS/WSLogos/WannaSurviveLogo.png
 - /PressKit-WS/WSLogos/WannaSurviveLogo_SubC.png 
 logoPackage: PressKit-WS/WSLogos.zip
 
-videoTitle: VIDEOS
 videos: 
 - //www.youtube.com/embed/Y_G1oyTMprY
 - //www.youtube.com/embed/yq32uq-7vFI

@@ -3,45 +3,45 @@ title: 活屍戰棋
 videoTitle: 影片
 photoTitle: 圖片
 logoTitle: Logo
-
 cover_detail: ../Banner.png
+
+photos: 
+- /PressKit-WS/WSImages/000.png
+- /PressKit-WS/WSImages/001.png
+- /PressKit-WS/WSImages/002.png
+- /PressKit-WS/WSImages/003.png
+- /PressKit-WS/WSImages/004.png
+- /PressKit-WS/WSImages/005.png
+- /PressKit-WS/WSImages/006.png
+- /PressKit-WS/WSImages/007.png
+- /PressKit-WS/WSImages/008.png
+- /PressKit-WS/WSImages/009.png
+- /PressKit-WS/WSImages/010.png
+- /PressKit-WS/WSImages/011.png
+- /PressKit-WS/WSImages/012.png
+- /PressKit-WS/WSImages/013.png
+- /PressKit-WS/WSImages/store001.gif
+- /PressKit-WS/WSImages/store002.gif
+- /PressKit-WS/WSImages/store003.gif
+- /PressKit-WS/WSImages/store004.gif
+- /PressKit-WS/WSImages/store005.gif
+- /PressKit-WS/WSImages/store006.gif
+- /PressKit-WS/WSImages/store007.gif
+- /PressKit-WS/WSImages/promo.png
+- /PressKit-WS/WSImages/promoSmall.png
+photoPackage: PressKit-WS/WSImages.zip
+
+logos: 
+- /PressKit-WS/WSLogos/WannaSurviveLogo.png
+- /PressKit-WS/WSLogos/WannaSurviveLogo_SubC.png 
+logoPackage: PressKit-WS/WSLogos.zip
+
 
 videos: 
 - //www.youtube.com/embed/Y_G1oyTMprY
 - //www.youtube.com/embed/yq32uq-7vFI
 - //www.youtube.com/embed/CNs5aHBAZvg
 - //www.youtube.com/embed/WFy5wr6gWME
-
-photos: 
-- PressKit-WS/WSImages/000.png
-- PressKit-WS/WSImages/001.png
-- PressKit-WS/WSImages/002.png
-- PressKit-WS/WSImages/003.png
-- PressKit-WS/WSImages/004.png
-- PressKit-WS/WSImages/005.png
-- PressKit-WS/WSImages/006.png
-- PressKit-WS/WSImages/007.png
-- PressKit-WS/WSImages/008.png
-- PressKit-WS/WSImages/009.png
-- PressKit-WS/WSImages/010.png
-- PressKit-WS/WSImages/011.png
-- PressKit-WS/WSImages/012.png
-- PressKit-WS/WSImages/013.png
-- PressKit-WS/WSImages/store001.gif
-- PressKit-WS/WSImages/store002.gif
-- PressKit-WS/WSImages/store003.gif
-- PressKit-WS/WSImages/store004.gif
-- PressKit-WS/WSImages/store005.gif
-- PressKit-WS/WSImages/store006.gif
-- PressKit-WS/WSImages/store007.gif
-- PressKit-WS/WSImages/promo.png
-- PressKit-WS/WSImages/promoSmall.png
-photoPackage: PressKit-WS/WSImages.zip
-
-logos: 
-- PressKit-WS/WSLogos/WannaSurviveLogo.png
-- PressKit-WS/WSLogos/WannaSurviveLogo_SubC.png
-logoPackage: PressKit-WS/WSLogos.zip
 ---
 <!--統一管理連結-->
 [PINIXPressKitLink]: /PressKit-PINIX/zh-TW/
