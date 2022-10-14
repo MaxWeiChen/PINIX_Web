@@ -10,6 +10,7 @@ photos:
 - /PressKit-Alina/Images_Common/C003.png
 - /PressKit-Alina/Images_Common/C004.png
 - /PressKit-Alina/Images_Common/C005.png
+- /PressKit-Alina/Images_Common/C006.png
 - /PressKit-Alina/Images_Common/G000.gif
 - /PressKit-Alina/Images_Common/G001.gif
 - /PressKit-Alina/Images_Common/G002.gif
@@ -24,7 +25,6 @@ photos:
 - /PressKit-Alina/Images_TW/006.png
 - /PressKit-Alina/Images_TW/007.png
 - /PressKit-Alina/Images_EN/008.png
-- /PressKit-Alina/Images_EN/009.png
 photoPackage: PressKit-Alina/Images_TW.zip
 
 logoTitle: LOGOS
@@ -35,7 +35,7 @@ logoPackage: PressKit-Alina/Logos.zip
 
 videoTitle: VIDEOS
 videos: 
-- //www.youtube.com/embed/iZn9uT1SJRw
+- //www.youtube.com/embed/xqu3cCR_Ybk
 
 ---
 <!--統一管理連結-->
