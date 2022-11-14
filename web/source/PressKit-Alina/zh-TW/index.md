@@ -94,8 +94,10 @@ NT$318
 
 ---
 + **獎項和認可**
-	- Taipei Game Show Indie Game Award 2022 Best Design Finalist
-	- GDWC 2021 PRO PC Game of the year Finalist
+	- IndiePlay 2022 最佳遊戲大獎 入圍
+	- IndiePlay 2022 最佳設計 入圍
+	- 台北電玩展 Indie Game Award 2022 最佳遊戲設計 入圍
+	- GDWC 2021 PRO PC Game of the year 入圍
 
 ---
 + **關於 PINIX**  

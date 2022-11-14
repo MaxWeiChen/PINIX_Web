@@ -84,6 +84,8 @@ A roguelite deckbuilding tactics game that combines elements from 'Slay the Spir
 <!--+ **History**  -->
 ---
 + **Features**
+	- IndiePlay 2022 The IndiePlay Award nominated
+	- IndiePlay 2022 Excellence in Game Design nominated
 	- Taipei Game Show Indie Game Award 2022 Best Design Finalist
 	- GDWC 2021 PRO PC Game of the year Finalist
 
