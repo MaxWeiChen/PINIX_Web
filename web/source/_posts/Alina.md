@@ -15,6 +15,7 @@ You play as a slave named "Alina" who kills everyone to entertain audiences in a
 一款結合 Slay The Spire 殺戮尖塔 和 Into the Breach 的戰棋Roguelike牌組構築遊戲，
 玩家扮演一名為生存而戰的奴隸，在角鬥場中互相殘殺以娛樂嗜血觀眾。
 牌組構築結合戰棋策略，讓思考不再拘限於只能攻擊或防禦，有效的閃避、擊退，創造出更多的生存機會吧！
+<img src="/Sources/15.jpg" height="60px" style="float: left"><br><br>
 
 ---
 <!--
