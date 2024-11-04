@@ -65,19 +65,25 @@ We hope to create enjoyable experiences that we can be proud of and that someone
 ---
 
 # PROJECTS  
-+ ## {% post_link DieDeep %} 死深 - In developing
++ ## {% post_link DieDeep %} - In developing
+**An action game that delivers a pure combat confrontation experience.**
 <table><td>
 <img src="../../Sources/DieDeepIcon.jpg" height="300px">
 </td></table>
 
 
 + ## {% post_link Alina %} - Released on 2022
+**A roguelite deckbuilding tactics game that combines elements from 'Slay the Spire' and 'Into the Breach'.**
+	- Taipei Game Show Indie Game Award 2023 **Best Design**
+	- BitSummit 2023 EXCELLENCE IN GAME DESIGN AWARD Nominated
 <table><td>
 <img src="../../Sources/AlinaIcon.png" height="300px">
 </td></table>
 
 
 + ## {% post_link WannaSurvive %} - Released on 2019
+**A zombie apocalypse turn-based tactics game.**
+	- Famitsu - **Silver Palace Award** in 2021
 <table><td>
 <img src="../../Sources/WannaSurviveIcon.png" height="300px">
 </td></table>
