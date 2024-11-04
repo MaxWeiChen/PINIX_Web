@@ -4,7 +4,7 @@ date: 2020-012-11 00:00:00
 tags: 
 categories: Games
 cover_index: /Sources/AlinaIcon.png
-cover_detail: /Sources/AlinaBg.png
+cover_detail: /Sources/AlinaBanner.png
 ---
 **《Alina of the Arena》**
 The game combines "Slay the Spire" and "Into the Breach", it's a roguelike deck builder and hexagon tactics game.
@@ -18,11 +18,8 @@ You play as a slave named "Alina" who kills everyone to entertain audiences in a
 <img src="/Sources/15.jpg" height="60px" style="float: left"><br><br>
 
 ---
-<!--
-11 min demo-gameplay 20210502
-{% youtube WUd3_cZ2QJU %}
+{% youtube xqu3cCR_Ybk %}
 ---
--->
 <!--遊戲PressKit連結-->
 <h2>Press Kit</h2>
 <div class=tags>

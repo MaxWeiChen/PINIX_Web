@@ -65,16 +65,26 @@ PINIX，成立於2018年5年。
 ---
 
 # 遊戲  
-+ ## {% post_link WannaSurvive %} 活屍戰棋
++ ## {% post_link DieDeep %} 死深 - In developing
+《死深》是一款享受純粹對峙戰鬥體驗的動作遊戲。
+沒有探索、解迷的打擾，進入瞬息萬變的深淵，找出目標弱點，攻陷所有阻擋在你前方的敵人，享受著純粹的敵我對峙戰鬥體驗。
+<table><td>
+<img src="../../Sources/DieDeepIcon.jpg" height="300px">
+</td></table>
+
+
++ ## {% post_link Alina %} 鬥技場的阿利娜 - Released on 2022
+一款結合 Slay The Spire 殺戮尖塔 和 Into the Breach 的戰棋Roguelike牌組構築遊戲
+<table><td>
+<img src="../../Sources/AlinaIcon.png" height="300px">
+</td></table>
+
+
++ ## {% post_link WannaSurvive %} 活屍戰棋 - Released on 2019
 大量活屍同時來襲，敵方回合只需數秒之間！」
 一款強調走位佈局深度策略的快節奏回合制戰棋遊戲。
 <table><td>
 <img src="../../Sources/WannaSurviveIcon.png" height="300px">
-</td></table>
-+ ## {% post_link Alina %}
-一款結合 Slay The Spire 殺戮尖塔 和 Into the Breach 的戰棋Roguelike牌組構築遊戲
-<table><td>
-<img src="../../Sources/AlinaIcon.png" height="300px">
 </td></table>
 
 

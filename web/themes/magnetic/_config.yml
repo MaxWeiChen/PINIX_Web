@@ -3,8 +3,9 @@ menu:
   Home: /
   Archives: /archives
   PressKit - PINIX: /PressKit-PINIX/en/
-  PressKit - WannaSurvive: /PressKit-WS/en/
+  PressKit - Die Deep: /PressKit-DieDeep/en
   PressKit - Alina of the Arena: /PressKit-Alina/en
+  PressKit - WannaSurvive: /PressKit-WS/en/
 
 # Default post title
 default_post_title: Untitled
@@ -46,7 +47,7 @@ facebook_url: https://www.facebook.com/pinixgames
 dribble_url: 
 rss_url:
 instagram_url:
-youtube_url: 
+youtube_url: https://www.youtube.com/@pinixgames
 discord_url: https://discord.gg/EF3HTqW
 patreon_url: https://www.patreon.com/pinix
 email_url: mailto:maxwei@pinixgames.com

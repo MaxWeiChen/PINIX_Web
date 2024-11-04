@@ -65,15 +65,21 @@ We hope to create enjoyable experiences that we can be proud of and that someone
 ---
 
 # PROJECTS  
-+ ## {% post_link WannaSurvive %}
-
++ ## {% post_link DieDeep %} 死深 - In developing
 <table><td>
-<img src="../../Sources/WannaSurviveIcon.png" height="300px">
+<img src="../../Sources/DieDeepIcon.jpg" height="300px">
 </td></table>
 
-+ ## {% post_link Alina %}
+
++ ## {% post_link Alina %} - Released on 2022
 <table><td>
 <img src="../../Sources/AlinaIcon.png" height="300px">
+</td></table>
+
+
++ ## {% post_link WannaSurvive %} - Released on 2019
+<table><td>
+<img src="../../Sources/WannaSurviveIcon.png" height="300px">
 </td></table>
 
 

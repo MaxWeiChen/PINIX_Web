@@ -1,5 +1,6 @@
 ---
 title: Wanna Survive Privacy Policy
+cover_detail: /Sources/WannaSurviveBanner.png
 ---
 <p>Effective date: September 14, 2019</p>
 

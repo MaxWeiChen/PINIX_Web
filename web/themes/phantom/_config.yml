@@ -4,8 +4,9 @@ menu:
   # Games: /categories/games/
   # About: /about/
   About: /PressKit-PINIX/en/
-  WannaSurvive - PressKit: /PressKit-WS/en/
+  Die Deep - PressKit: /PressKit-DieDeep/en
   Alina of the Arena - PressKit: /PressKit-Alina/en
+  WannaSurvive - PressKit: /PressKit-WS/en/
 
 # favicon
 favicon: favicon.ico

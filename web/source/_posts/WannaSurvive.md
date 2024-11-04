@@ -4,7 +4,7 @@ date: 2018-05-01 00:00:00
 tags: 
 categories: Games
 cover_index: /Sources/WannaSurviveIcon.png
-cover_detail: /Sources/WannaSurviveBg.png
+cover_detail: /Sources/WannaSurviveBanner.png
 ---
 **《Wanna Survive》**  
 Wanna Survive is a zombie apocalypse turn-based tactics game. It features a highly streamlined combat system that removes the tedious elements of turn-based combat for engaging fights against large groups of mob-like enemies that focuses on unit placement and synergies.
