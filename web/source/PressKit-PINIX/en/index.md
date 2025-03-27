@@ -18,6 +18,7 @@ photos:
 - /PressKit-PINIX/PINIXImages/012.jpg
 - /PressKit-PINIX/PINIXImages/013.jpg
 - /PressKit-PINIX/PINIXImages/014.jpg
+- /PressKit-PINIX/PINIXImages/015.jpg  
 photoPackage: PressKit-PINIX/PINIXImages.zip
 
 logoTitle: LOGOS
