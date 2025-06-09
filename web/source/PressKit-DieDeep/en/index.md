@@ -26,7 +26,7 @@ logoPackage: PressKit-DieDeep/Logos.zip
 
 videoTitle: VIDEOS
 videos: 
-- //www.youtube.com/embed/f3IP_jx7xbc
+- //www.youtube.com/embed/c3dCWIrutlI
 
 ---
 <!--統一管理連結-->
@@ -65,9 +65,9 @@ Not ready..
 ---
 + **Description**  
 	
-	**Die Deep is an action game that delivers a pure combat confrontation experience.**
-	Nothing stands in your way but combat!Dive into a constantly changing abyss, spot weaknesses, take down every enemy in your way, and enjoy the ultimate head-to-head battle experience.
-	As the terrain shifts, the nonstop fights get even more intense and exciting.Collect rewards to build your own unique style, making every fight a fresh adventure.
+	**Die Deep delivers a pure and focused action experience — it’s all about reading your foes and mastering your timing to strike back.**
+	Nothing stands in your way but combat! Dive into a constantly changing abyss, spot weaknesses, take down every enemy in your way, and enjoy the ultimate head-to-head battle experience.
+	As the terrain shifts, the nonstop fights get even more intense and exciting. Collect rewards to build your own unique style, making every fight a fresh adventure.
 	Dive into the abyss for the mysterious power that can achieve anything.
 
 <!--+ **History**  -->

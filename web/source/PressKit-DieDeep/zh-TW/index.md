@@ -26,7 +26,7 @@ logoPackage: PressKit-DieDeep/Logos.zip
 
 videoTitle: VIDEOS
 videos: 
-- //www.youtube.com/embed/f3IP_jx7xbc
+- //www.youtube.com/embed/c3dCWIrutlI
 
 ---
 <!--統一管理連結-->
