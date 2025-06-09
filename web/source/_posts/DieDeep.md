@@ -26,7 +26,7 @@ Dive into the abyss for the mysterious power that can achieve anything.
 為追求實現一切的神秘之力，進入深淵！
 
 ---
-{% youtube c3dCWIrutlI %}
+{% youtube 3S_3s-oklGs %}
 ---
 <!--遊戲PressKit連結-->
 <h2>Press Kit</h2>
