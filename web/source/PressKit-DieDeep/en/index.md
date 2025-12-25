@@ -15,7 +15,6 @@ photos:
 - /PressKit-DieDeep/Images/006.png
 - /PressKit-DieDeep/Images/007.png
 - /PressKit-DieDeep/Images/008.png
-- /PressKit-DieDeep/Images/009.png
 photoPackage: PressKit-DieDeep/Images.zip
 
 logoTitle: LOGOS
@@ -33,6 +32,7 @@ videos:
 [PINIXPressKitLink]: /PressKit-PINIX/en/
 [MAXWEIWEB]: https://maxweichen.github.io/
 [STEAMLINK]: https://store.steampowered.com/app/3211560/
+[PRESSKIT_GOOGLE]: https://drive.google.com/drive/folders/1ozO0x1_U9jIeLpllmaGDS47mUlFFelVv?usp=drive_link
 [APPSTORELINK]: ..
 [GOOGLEPLAYLINK]: ..
 <!--統一管理連結-->
@@ -41,7 +41,7 @@ videos:
 </div>
 
 ---
-<h1>PRESS-KIT</h1>
+# PRESS-KIT
 
 + **Game Name**  
 Die Deep
@@ -62,37 +62,56 @@ Not ready..
 + **Link**  
 [Steam][STEAMLINK]
 
++ **PressKit on GoogleDrive**
+[PressKit][PRESSKIT_GOOGLE]
+
 ---
-+ **Description**  
+# Description
 	
-	**Die Deep delivers a pure and focused combat experience — it’s all about reading your foes and mastering your timing to strike back.**
-	Nothing stands in your way but combat! Dive into a constantly changing abyss, spot weaknesses, take down every enemy in your way, and enjoy the ultimate head-to-head battle experience.
-	As the terrain shifts, the nonstop fights get even more intense and exciting. Collect rewards to build your own unique style, making every fight a fresh adventure.
-	Dive into the abyss for the mysterious power that can achieve anything.
+***When everything is devoured by the Abyss, fight. Only to confirm your heart is still beating.***
+	
+**Die Deep** is an action game that focuses purely on the confrontation between you and the enemy.
+No map exploration, no puzzles, no excess. The only core is Combat!
+Observe the enemy's movements carefully. Seize the opening, plan your strategy, and strike with precision. A single reckless attack or a greedy strike is enough to result in a fatal failure.
+Take control of characters with distinct goals and traits. 
+Through endless fierce battles, pursue the mysterious power that can rewrite fate. Enter the Abyss. Face death.
+
+---
+# The World
+When everything is devoured by the Abyss, all desires turn to dust. Wandering souls have long forgotten the instinct to strive, and even the reason to live.
+Until the Abyss sends a silent call. It lures you deeper to uncover the forgotten that your once truest desire.
+Even if it is merely a lie to bait a sacrifice. In this suffocating void, pursuing a lie is worth more than facing a hollow eternity.
+Descend. Towards the end of the Abyss, to touch that single hope.
+Fight. Only to confirm your heart is still beating.
+
 
 <!--+ **History**  -->
 ---
-+ **Features**
+# Features
 	
-	+ **A Pure Focused Combat Experience**
-	The game’s battles focus on carefully observing enemy movements and seizing every opportunity to act.
-	Plan your strategy wisely and strike with precision—reckless attacks or getting greedy can lead to deadly consequences.
-	But that doesn’t mean your character is slow or clumsy; they possess agile moves and powerful skills, allowing you to truly shine while staying calm under pressure.
++ **A Pure, Focused Combat Experience**
+Focus on observing enemy movements and seizing every opportunity. Plan your strategy wisely and strike with precision. Any reckless attack or greedy strike can lead to fatal consequences.
 
-	+ **Unique Playable Characters**
-	Whether it's the one-eyed warrior skilled in perfect parries or the agile cat thief wielding dual blades, each character boasts a distinct fighting style. Delve into their unique traits, harness each character's strengths, and discover your path to victory.
+But this does not mean you are slow or clumsy. Your characters possess agile moves and powerful skills. Unleash their full potential while staying calm under pressure.
 
-	+ **Tight and Exciting Continuous Battlegrounds**
-	As the terrain automatically shifts, battles will come at you nonstop. You must seize every opportunity to catch your breath and recover, pushing through one challenge after another, continuously growing and preparing for the ultimate showdown against powerful foes.
++ **Unique Playable Characters**
+From the one-eyed warrior skilled in perfect parries, to the agile rogue wielding dual blades, each character boasts a distinct fighting style. Delve into their unique traits. Harness their strengths. Find your own path to victory.
 
-	+ **Build a Versatile Combat Style**
-	Gain soul energy through victories to continually grow. Combine charms and skills to create your own unique fighting style as you pursue.
-	Dive into the abyss for the mysterious power that can achieve anything	
++ **Challenging Bosses**
+Face distinct and powerful enemies of the Abyss. Any misjudgment will lead to instant destruction. Only a perfect response ensures survival.
+
++ **Intense Continuous Battles**
+As the terrain automatically shifts, battles come at you nonstop. Seize every fleeting moment to recover. Break through one challenge after another.
+
++ **Build a Versatile Combat Style**
+Gain soul energy through victories to grow stronger. Combine various charms and skills to forge your own unique fighting style.
+
+	
 <!--+ **Awards & Recognitio**-->
 <!--+ **Reviews**-->
 <!--Selected Articles-->
 ---
-+ **About PINIX**  
+# About PINIX
 [Click here][PINIXPressKitLink] for media packs and more info on PINIX Games
 
 + **Developer**  
